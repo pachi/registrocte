@@ -1,0 +1,6782 @@
+[
+ {
+  "cod": "AND-E-001",
+  "nif": "B91606178",
+  "empresa": "Cartuja Arquitectura, SL",
+  "direccion": "Avenida Americo Vespucio, 5. Bloque E, 21-10. Isla de la Cartuja",
+  "cp": "41092",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "954 46 75 10",
+  "telefono2": "",
+  "fax": "954 46 75 11",
+  "email": "control@cartujaarquitectura.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00055",
+  "inscripcion_ccaa": "ECCC-001-SE07",
+  "fecha_alta": "07/05/2010",
+  "baja": "BAJA",
+  "fecha_baja": "03/06/2014",
+  "declaraciones": [
+   "07/05/2010",
+   "28/09/2010",
+   "03/05/2011",
+   "03/06/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-002",
+  "nif": "B15044357",
+  "empresa": "APPLUS NORCONTROL, SL",
+  "direccion": "Avenida Americo Vespucio, 3 - 1º planta",
+  "cp": "41092",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "954 46 77 10",
+  "telefono2": "",
+  "fax": "954 46 77 11",
+  "email": "imacias@appluscorp.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00020",
+  "inscripcion_ccaa": "ECCC-003-SE08",
+  "fecha_alta": "07/05/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "07/05/2010",
+   "21/10/2010",
+   "05/10/2011",
+   "15/05/2012",
+   "02/02/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-003",
+  "nif": "A41010521",
+  "empresa": "VORSEVI, SA",
+  "direccion": "Calle Leonardo da Vinci, 20 (Isla de la Cartuja)",
+  "cp": "41092",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "954 39 43 05",
+  "telefono2": "",
+  "fax": "954 39 45 32",
+  "email": "edificiacion@vorsevi.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00438",
+  "inscripcion_ccaa": "ECCC-004-SE09",
+  "fecha_alta": "07/05/2010",
+  "baja": "BAJA",
+  "fecha_baja": "04/11/2013",
+  "declaraciones": [
+   "07/05/2010",
+   "28/10/2010",
+   "19/05/2011",
+   "15/05/2012",
+   "04/11/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-005",
+  "nif": "A29021334",
+  "empresa": "Centro de Estudio de Materiales y Control de Obra, SA (CEMOSA)",
+  "direccion": "Urbanización Los Chopos, Calle Benaque 9",
+  "cp": "29004",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "telefono1": "952 23 08 42",
+  "telefono2": "",
+  "fax": "952 23 12 14",
+  "email": "malaga@cemosa.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00068",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "28/06/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "28/06/2010",
+   "21/03/2011",
+   "19/05/2011",
+   "15/05/2014",
+   "29/04/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-007",
+  "nif": "B91433888",
+  "empresa": "ELABORA, Agencia para la Calidad en la Construcción, SL",
+  "direccion": "Polígono Industrial El pino, c/ Pino central, 44",
+  "cp": "41016",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "954 51 55 58",
+  "telefono2": "",
+  "fax": "954 51 38 21",
+  "email": "elabora@elabora.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00118",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "04/07/2011",
+  "baja": "BAJA",
+  "fecha_baja": "02/05/2012",
+  "declaraciones": [
+   "04/07/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-009",
+  "nif": "Q4118001I",
+  "empresa": "Universidad de Sevilla",
+  "direccion": "Avenida Reina Mercedes, 2 (Escuela Técnica Superior de Arquitectura)",
+  "cp": "41012",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "954 55 16 30",
+  "telefono2": "",
+  "fax": "954 55 70 24",
+  "email": "iuccsecret@us.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00432",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "25/04/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "25/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-010",
+  "nif": "B91887646",
+  "empresa": "VORSEVI QUALITAS, SLU",
+  "direccion": "Calle Leonardo da Vinci, 20 (Isla de la Cartuja)",
+  "cp": "41092",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "954 39 43 05",
+  "telefono2": "",
+  "fax": "954 39 45 32",
+  "email": "vorsevi@vorsevi.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00484",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "04/11/2013",
+  "baja": "BAJA",
+  "fecha_baja": "31/07/2015",
+  "declaraciones": [
+   "04/11/2013",
+   "31/07/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-011",
+  "nif": "B91262428",
+  "empresa": "Laboratorio Andaluz de Ensayos de Construcción, SRL (LAENSA)",
+  "direccion": "Calle Apolo, 4",
+  "cp": "41700",
+  "municipio": "Dos Hermanas",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "955 67 41 08",
+  "telefono2": "",
+  "fax": "955 67 55 41",
+  "email": "rbueno@laensa.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00337",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "19/12/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "19/12/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-012",
+  "nif": "B91248203",
+  "empresa": "INGENIERIA AUDIOVISUAL ANDALUZA DE TELECOMUNICACIONES SL - AVANDTEL",
+  "direccion": "C/ Espinosa y Cárcel, 55 - Piso 5, puerta A",
+  "cp": "41005",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "954 93 39 99",
+  "telefono2": "",
+  "fax": "954 93 39 99",
+  "email": "info@avadtel.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00512",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "21/03/2014",
+  "baja": "BAJA",
+  "fecha_baja": "09/11/2015",
+  "declaraciones": [
+   "21/03/2014",
+   "02/03/2015",
+   "09/11/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-013",
+  "nif": "B92729417",
+  "empresa": "C & F Ingeniería de la Edificación y Patología SL",
+  "direccion": "C/ Martínez, 2. Bloque E, Piso 2, Puerta 203",
+  "cp": "29005",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "telefono1": "952 06 22 36",
+  "telefono2": "",
+  "fax": "952 06 28 68",
+  "email": "info@ceyefe.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00576",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "03/06/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "03/06/2015",
+   "01/07/2015",
+   "07/09/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-014",
+  "nif": "B91433888",
+  "empresa": "ELABORA, Agencia para la Calidad en la Construcción, SL",
+  "direccion": "Polígono Industrial El pino, c/ Pino central, 44",
+  "cp": "41016",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "comunidad": "Andalucía",
+  "telefono1": "954 51 55 58",
+  "telefono2": "",
+  "fax": "954 51 38 21",
+  "email": "elabora@elabora.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00118(02)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "24/06/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "24/06/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-015",
+  "nif": "B93456275",
+  "empresa": "Unidad de Control Integral, SL",
+  "direccion": "c/ Argonautas, 49 - Oficina 8",
+  "cp": "29004",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "telefono1": "951 25 06 12",
+  "telefono2": "",
+  "fax": "",
+  "email": "ucisl@ucisl.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00611",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "26/05/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "26/05/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-016",
+  "nif": "A18011817",
+  "empresa": "Geotécnica del Sur, SA",
+  "direccion": "Polígono Industrial Juncaril. Parcela 102 A, Edificio C.",
+  "cp": "18210",
+  "municipio": "Peligros",
+  "provincia": "Granada",
+  "comunidad": "Andalucía",
+  "telefono1": "958 22 90 47",
+  "telefono2": "",
+  "fax": "958 22 31 68",
+  "email": "laboratorio@geotecnicadelsur.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00199(03)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "14/07/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "14/07/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-017",
+  "nif": "B91477539",
+  "empresa": "LABSON, Geotécnia y Sondeos, SL",
+  "direccion": "Polígono Industrial TecnoCórdoba, Parcela 159-160, Nave 6",
+  "cp": "14014",
+  "municipio": "Córdoba",
+  "provincia": "Córdoba",
+  "comunidad": "Andalucía",
+  "telefono1": "957 34 81 02",
+  "telefono2": "",
+  "fax": "957 34 80 17",
+  "email": "nati@labson.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00334",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/02/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/02/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. prestaciones de edificios existentes",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AND-E-018",
+  "nif": "B93412351",
+  "empresa": "Ingeniería, Gestión energética y Estudio de obras, SL (INGESES)",
+  "direccion": "Calle Sierra de la Demanda, 8 - P5",
+  "cp": "29017",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "comunidad": "Andalucía",
+  "telefono1": "696 66 23 55",
+  "telefono2": "",
+  "fax": "",
+  "email": "jlrico@ingeses.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00661",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "21/09/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "21/09/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "ARA-E-001",
+  "nif": "B99385106",
+  "empresa": "M3 Control de Servicios Técnicos 2013, SL",
+  "direccion": "Juan José Lorente, 27-31, oficina F",
+  "cp": "50005",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "comunidad": "Aragón",
+  "telefono1": "646 22 89 33",
+  "telefono2": "",
+  "fax": "",
+  "email": "info@m3control.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00441",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/08/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/08/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "ARA-E-002",
+  "nif": "B99485740",
+  "empresa": "NIVEL-4 Ingeniería Acústica, SLP",
+  "direccion": "Edificio CEMINEM SPINUP s/n Calle Mariano Esquillor Gómez, Campus Rio Ebro",
+  "cp": "50018",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "comunidad": "Aragón",
+  "telefono1": "605 06 54 06",
+  "telefono2": "",
+  "fax": "",
+  "email": "nivel-4@nivel-4.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00631",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "23/12/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "23/12/2016"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "ARA-E-003",
+  "nif": "B99198913",
+  "empresa": "SOLITEL Proyectos e Ingenieria de Telecomunicaciones, SL",
+  "direccion": "Calle Ávila 5-7 Local",
+  "cp": "50180",
+  "municipio": "Utebo",
+  "provincia": "Zaragoza",
+  "comunidad": "Aragón",
+  "telefono1": "610 57 08 35",
+  "telefono2": "",
+  "fax": "",
+  "email": "pjimenez@solitel.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00534",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [],
+  "alcance": []
+ },
+ {
+  "cod": "AST-E-001",
+  "nif": "A33021809",
+  "empresa": "Control de Ingeniería y Servicios, SA, (SEINCO)",
+  "direccion": "Calle Bobes, s/n",
+  "cp": "33429",
+  "municipio": "Siero",
+  "provincia": "Asturias",
+  "comunidad": "Asturias, Principado de",
+  "telefono1": "985 79 36 41",
+  "telefono2": "",
+  "fax": "985 79 41 33",
+  "email": "laboratorio@construccion.as",
+  "web": "",
+  "web_url": "",
+  "referencia": "00097",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "13/01/2010",
+  "baja": "BAJA",
+  "fecha_baja": "31/03/2014",
+  "declaraciones": [
+   "13/01/2010",
+   "17/02/2011",
+   "31/03/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AST-E-002",
+  "nif": "B33586637",
+  "empresa": "Ingenieros Asesores de Construcción, SL",
+  "direccion": "Parque tecnológico de Asturias, Parcela 39",
+  "cp": "33248",
+  "municipio": "Llanera",
+  "provincia": "Asturias",
+  "comunidad": "Asturias, Principado de",
+  "telefono1": "985 98 00 50",
+  "telefono2": "",
+  "fax": "985 98 00 51",
+  "email": "cdg@ingenierosasesores-sa.es",
+  "web": "RG ECCE AST-E-002.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/AST-E-002.pdf",
+  "referencia": "00247",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/05/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/05/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AST-E-003",
+  "nif": "A33672130",
+  "empresa": "Organización Técnica de Control de Calidad, SA (O.T.Q.)",
+  "direccion": "Johannes Kepler, 24 Polígono Proyecto I",
+  "cp": "33392",
+  "municipio": "Gijón",
+  "provincia": "Asturias",
+  "comunidad": "Asturias, Principado de",
+  "telefono1": "985 73 26 48",
+  "telefono2": "",
+  "fax": "985 26 85 84",
+  "email": "otq@otqsa.com",
+  "web": "RG ECCE AST-E-003.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/AST-E-003.pdf",
+  "referencia": "00363",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "22/09/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "22/09/2010",
+   "02/10/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AST-E-004",
+  "nif": "A33050394",
+  "empresa": "Centro de Análisis y Diseño de Estructuras, SA (CADESA)",
+  "direccion": "Calle Darío Regoyos,9-15",
+  "cp": "33010",
+  "municipio": "Oviedo",
+  "provincia": "Asturias",
+  "comunidad": "Asturias, Principado de",
+  "telefono1": "985 20 16 50",
+  "telefono2": "",
+  "fax": "985 22 79 22",
+  "email": "cadesa@cadesa.org",
+  "web": "RG ECCE AST-E-004.pdf",
+  "web_url": "file:///DOC para servidor DR-L y E/Entidades/AST-E-004.pdf",
+  "referencia": "00064(01)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/05/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "20/05/2013",
+   "27/09/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AST-E-005",
+  "nif": "9392962S",
+  "empresa": "REBOLLO INGENIERÍA, Francisco Javier Rebollo Álvarez",
+  "direccion": "Camino de los Nogales, 46",
+  "cp": "33429",
+  "municipio": "Siero",
+  "provincia": "Asturias",
+  "comunidad": "Asturias, Principado de",
+  "telefono1": "690 93 48 38",
+  "telefono2": "",
+  "fax": "",
+  "email": "jrebollo@rebollo-ingenieria.es",
+  "web": "RG ECCE AST-E-005.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/AST-E-005.pdf",
+  "referencia": "00496",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/07/2013",
+  "baja": "BAJA",
+  "fecha_baja": "07/07/2017",
+  "declaraciones": [
+   "15/07/2013",
+   "07/07/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util, verificando el cumplimiento de las exigencias básicas del CTE y demás normativa aplicable.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "AST-E-006",
+  "nif": "B74346313",
+  "empresa": "ARROYO NORTE CONSULTORÍA TÉCNICA, SL",
+  "direccion": "Urb. Europa, C/ Cerdeño, 33; portal 2 oficina 1A",
+  "cp": "33010",
+  "municipio": "Oviedo",
+  "provincia": "Asturias",
+  "comunidad": "Asturias, Principado de",
+  "telefono1": "985 83 75 63",
+  "telefono2": "",
+  "fax": "",
+  "email": "administracion@arroyonorte.es",
+  "web": "RG ECCE AST-E-006.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/AST-E-006.pdf",
+  "referencia": "00535",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "18/08/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/08/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util, verificando el cumplimiento de las exigencias básicas del CTE y demás normativa aplicable.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CTB-E-001",
+  "nif": "B39512173",
+  "empresa": "SONINGEO, SL",
+  "direccion": "Polígono Industrial de Heras, parcela 211",
+  "cp": "39792",
+  "municipio": "Medio Cudeyo",
+  "provincia": "Cantabria",
+  "comunidad": "Cantabria",
+  "telefono1": "",
+  "telefono2": "",
+  "fax": "",
+  "email": "calidad@soningeo.com",
+  "web": "RG ECCE CTB-E-001.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CTB-E-001.pdf",
+  "referencia": "00414",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "03/12/2008",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [],
+  "alcance": []
+ },
+ {
+  "cod": "CLM-E-001",
+  "nif": "B45779550",
+  "empresa": "Technical Resources and Consulting, SL",
+  "direccion": "Avenida Toledo, 31, planta 3ª, local 6",
+  "cp": "45600",
+  "municipio": "Talavera de la Reina",
+  "provincia": "Toledo",
+  "comunidad": "Castilla-La Mancha",
+  "telefono1": "925 82 46 84",
+  "telefono2": "",
+  "fax": "",
+  "email": "c.rojo@techcon.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00443",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "21/06/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "21/06/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CLM-E-002",
+  "nif": "A28161396",
+  "empresa": "Asistencia Técnica Industrial, SA (ATISAE)",
+  "direccion": "Travesía de los Bachilleres, 2A",
+  "cp": "45003",
+  "municipio": "Toledo",
+  "provincia": "Toledo",
+  "comunidad": "Castilla-La Mancha",
+  "telefono1": "925 25 59 52",
+  "telefono2": "",
+  "fax": "925 21 48 80",
+  "email": "toledo@atisae.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00024(13)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "13/04/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "13/04/2012"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CLM-E-003",
+  "nif": "A29021334",
+  "empresa": "Centro de Estudio de Materiales y Control de Obra, SA (CEMOSA)",
+  "direccion": "Polígono Industrial Larache, C/ Pedro Muñoz, 1 - oficina 11",
+  "cp": "13005",
+  "municipio": "Ciudad Real",
+  "provincia": "Ciudad Real",
+  "comunidad": "Castilla-La Mancha",
+  "telefono1": "926 27 16 38",
+  "telefono2": "",
+  "fax": "926 27 16 39",
+  "email": "",
+  "web": "",
+  "web_url": "",
+  "referencia": "00068(10)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "29/04/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "29/04/2010"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CLM-E-004",
+  "nif": "B45740818",
+  "empresa": "UNICONTROL Ingeniería de Calidad y Arquitectura Aplicada, SL",
+  "direccion": "Paseo del Cementerio, Polígono 30 A, Nave 2",
+  "cp": "13700",
+  "municipio": "Tomelloso",
+  "provincia": "Ciudad Real",
+  "comunidad": "Castilla-La Mancha",
+  "telefono1": "926 50 11 70",
+  "telefono2": "",
+  "fax": "926 51 06 02",
+  "email": "jlgonzalez@igisa.net",
+  "web": "",
+  "web_url": "",
+  "referencia": "00431",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "30/07/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "30/07/2010"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-001",
+  "nif": "A24036691",
+  "empresa": "Investigación y Control de Calidad, SA (INCOSA)",
+  "direccion": "Parque Tecnológico de León, c/ Nicostrato Vela, parcela 20 P1",
+  "cp": "24009",
+  "municipio": "León",
+  "provincia": "León",
+  "comunidad": "Castilla y León",
+  "telefono1": "987 07 44 44",
+  "telefono2": "",
+  "fax": "901 02 18 50",
+  "email": "dgarciap@incosa.es",
+  "web": "RG ECCE CYL-E-001.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-001.pdf",
+  "referencia": "00444",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/01/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "20/01/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-002",
+  "nif": "A49175243",
+  "empresa": "INZAMAC Asistencias Técnicas, SAU",
+  "direccion": "Calle Alto de la Albillera, parcelas 7- 8. Polígono Industrial de la Hiniesta",
+  "cp": "49025",
+  "municipio": "Zamora",
+  "provincia": "Zamora",
+  "comunidad": "Castilla y León",
+  "telefono1": "980 55 70 80",
+  "telefono2": "",
+  "fax": "980 51 74 76",
+  "email": "direccion@inzamac.es",
+  "web": "RG ECCE CYL-E-002.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-002.pdf",
+  "referencia": "00275",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "04/01/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "04/01/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-003",
+  "nif": "13054593T",
+  "empresa": "Jesús Gil de Juana (Ingeniería Acústica)",
+  "direccion": "Calle Condesa Mencía, 97",
+  "cp": "09006",
+  "municipio": "Burgos",
+  "provincia": "Burgos",
+  "comunidad": "Castilla y León",
+  "telefono1": "947 23 53 53",
+  "telefono2": "",
+  "fax": "947 23 53 53",
+  "email": "info@gildejuana.com",
+  "web": "RG ECCE CYL-E-003.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-003.pdf",
+  "referencia": "00235",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "01/02/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "01/02/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-004",
+  "nif": "B09464892",
+  "empresa": "HCTECH Electronics Engineering, SL",
+  "direccion": "Plaza Santa María, 4 - 1º",
+  "cp": "09400",
+  "municipio": "Aranda de Duero",
+  "provincia": "Burgos",
+  "comunidad": "Castilla y León",
+  "telefono1": "",
+  "telefono2": "",
+  "fax": "",
+  "email": "",
+  "web": "RG ECCE CYL-E-004.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-004.pdf",
+  "referencia": "00445",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "10/02/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "10/02/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-005",
+  "nif": "B47592316",
+  "empresa": "Centro Tecnológico Acústico, SL",
+  "direccion": "Calle Juanelo Turriano, 4",
+  "cp": "47151",
+  "municipio": "Boecillo",
+  "provincia": "Valladolid",
+  "comunidad": "Castilla y León",
+  "telefono1": "983 41 90 00",
+  "telefono2": "627 97 66 91",
+  "fax": "983 41 99 99",
+  "email": "info@ctacustica.es",
+  "web": "RG ECCE CYL-E-005.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-005.pdf",
+  "referencia": "00073",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "05/04/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "05/04/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno. Estudio del ruido ambiental en parcelas edificables",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE. Cumplimiento del DB HR.",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util. Cumplimiento del DB HR.",
+    "alcance_loe": "1.a/1.b",
+    "fase": "VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-006",
+  "nif": "A47021704",
+  "empresa": "Centro de Estudios y Control de Obras, SA (CESECO)",
+  "direccion": "Polígono San Cristóbal, Calle Turquesa, parcela R-8",
+  "cp": "47012",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "comunidad": "Castilla y León",
+  "telefono1": "983 30 22 77",
+  "telefono2": "",
+  "fax": "983 30 25 77",
+  "email": "gerencia@ceseco.com",
+  "web": "RG ECCE CYL-E-006.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-006.pdf",
+  "referencia": "00069",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/06/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "20/06/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-007",
+  "nif": "B47679774",
+  "empresa": "Asistencia Técnica Formación e Ingeniería, SLU (AFITEC)",
+  "direccion": "Calle Valle de Arán, 9",
+  "cp": "47010",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "comunidad": "Castilla y León",
+  "telefono1": "653 39 38 00",
+  "telefono2": "",
+  "fax": "983 14 16 01",
+  "email": "lcastillo@afitec.es",
+  "web": "RG ECCE CYL-E-007.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-007.pdf",
+  "referencia": "00446",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "23/09/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "23/09/2011",
+   "25/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-008",
+  "nif": "07983871L",
+  "empresa": "Angel Lorenzo Sánchez",
+  "direccion": "Jesús Arambarri, 38 - Puerta 38",
+  "cp": "37003",
+  "municipio": "Salamanca",
+  "provincia": "Salamanca",
+  "comunidad": "Castilla y León",
+  "telefono1": "649 48 52 82",
+  "telefono2": "",
+  "fax": "",
+  "email": "angelarquitectot@gmail.com",
+  "web": "RG ECCE CYL-E-008.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-008.pdf",
+  "referencia": "00525",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "14/06/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "14/06/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-009",
+  "nif": "B05225131",
+  "empresa": "VIARIUM INGENIERIA, SL",
+  "direccion": "C/ Eduardo Marquina, 27 2º",
+  "cp": "05001",
+  "municipio": "Ávila",
+  "provincia": "Ávila",
+  "comunidad": "Castilla y León",
+  "telefono1": "916 36 43 32",
+  "telefono2": "",
+  "fax": "916 37 19 77",
+  "email": "info@viarium.es",
+  "web": "RG ECCE CYL-E-009.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-009.pdf",
+  "referencia": "00531",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "25/07/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "25/07/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-010",
+  "nif": "B47731914",
+  "empresa": "INCIDEC SL, Ingeniería de control, investigación, diseño y conservación de sistemas constructivos",
+  "direccion": "C/ San José, 17 - 2º derecha",
+  "cp": "47007",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "comunidad": "Castilla y León",
+  "telefono1": "652 93 76 29",
+  "telefono2": "",
+  "fax": "",
+  "email": "oficina@incidec.com",
+  "web": "RG ECCE CYL-E-010.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-010.pdf",
+  "referencia": "00598",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "28/01/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "28/01/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. De las prestaciones del edificio a lo largo de su vida útil para verificar el CTE  y normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-011",
+  "nif": "13292803E",
+  "empresa": "Ingeniería Luis Antonio González-Urría Barcina",
+  "direccion": "Camino del Molino Viejo,1",
+  "cp": "09219",
+  "municipio": "Ameyugo",
+  "provincia": "Burgos",
+  "comunidad": "Castilla y León",
+  "telefono1": "",
+  "telefono2": "",
+  "fax": "",
+  "email": "",
+  "web": "RG ECCE CYL-E-011.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-011.pdf",
+  "referencia": "00632",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "18/11/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/11/2016"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-012",
+  "nif": "E47770185",
+  "empresa": "ROJART ESTUDIOS ESPJ",
+  "direccion": "Calle Majada,7 - Planta Baja B",
+  "cp": "47270",
+  "municipio": "Cigales",
+  "provincia": "Valladolid",
+  "comunidad": "Castilla y León",
+  "telefono1": "647 71 46 19",
+  "telefono2": "",
+  "fax": "",
+  "email": "rojartestudios@gmail.com",
+  "web": "RG ECCE CYL-E-012.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-012.pdf",
+  "referencia": "00657",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/08/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "20/08/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util, verificando el cumplimiento de las exigencias básicas del CTE y demás normativa aplicable.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CYL-E-013",
+  "nif": "B40268799",
+  "empresa": "INZAMAC, Soluciones de Eficiencia Energética, SL",
+  "direccion": "Avenida Victor Gallego, 30 - Entreplanta C",
+  "cp": "49009",
+  "municipio": "Zamora",
+  "provincia": "Zamora",
+  "comunidad": "Castilla y León",
+  "telefono1": "980 01 38 01",
+  "telefono2": "",
+  "fax": "",
+  "email": "juliafernandez@insee.es",
+  "web": "RG ECCE CYL-E-013.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/CYL-E-013.pdf",
+  "referencia": "00660",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "21/09/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "21/09/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. De las prestaciones del edificio a lo largo de su vida útil para verificar el CTE  y normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-001",
+  "nif": "A08325482",
+  "empresa": "QUIBAC, SA",
+  "direccion": "Calle Cardener, 5",
+  "cp": "08223",
+  "municipio": "Terrassa",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "telefono1": "937 36 03 00",
+  "telefono2": "",
+  "fax": "937 36 03 03",
+  "email": "calidad@ingesco.com",
+  "web": "RG ECCE Generalitat Cataluña",
+  "web_url": "http://habitatge.gencat.cat/web/.content/home/ambits_dactuacio/qualitat_tecnica/qualitat_de_ledificacio/entitats_de_control_de_qualitat_de_ledificacio/dr_entitats__es_.xls",
+  "referencia": "00442",
+  "inscripcion_ccaa": "E0600001",
+  "fecha_alta": "17/10/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "17/10/2012",
+   "25/03/2013",
+   "12/04/2013"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-002",
+  "nif": "B25469388",
+  "empresa": "INQUA, SL",
+  "direccion": "Parc Cientific i Tecnologic Agroalimentari de Lleida. Edific H2",
+  "cp": "25003",
+  "municipio": "Lleida",
+  "provincia": "Lleida",
+  "comunidad": "Cataluña",
+  "telefono1": "973 24 70 08",
+  "telefono2": "",
+  "fax": "973 22 28 42",
+  "email": "inqua.lleida@inqua.cat",
+  "web": "",
+  "web_url": "",
+  "referencia": "00252",
+  "inscripcion_ccaa": "E06000002",
+  "fecha_alta": "11/06/2013",
+  "baja": "BAJA",
+  "fecha_baja": "11/07/2013",
+  "declaraciones": [
+   "11/06/2013",
+   "11/06/2013"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-003",
+  "nif": "B62336185",
+  "empresa": "OCTAU, SL",
+  "direccion": "C/ Cervelló, 5 4t-3a",
+  "cp": "08760",
+  "municipio": "Martorell",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "telefono1": "932 68 02 68",
+  "telefono2": "",
+  "fax": "932 68 23 38",
+  "email": "info@octau.cat",
+  "web": "RG ECCE Generalitat Cataluña",
+  "web_url": "http://habitatge.gencat.cat/web/.content/home/ambits_dactuacio/qualitat_tecnica/qualitat_de_ledificacio/entitats_de_control_de_qualitat_de_ledificacio/dr_entitats__es_.xls",
+  "referencia": "00499",
+  "inscripcion_ccaa": "E0600003",
+  "fecha_alta": "14/02/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "14/02/2014"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-004",
+  "nif": "A08658601",
+  "empresa": "ECA, Entidad colaboradora de la Administración, S.L.",
+  "direccion": "Camí Can Ametller,  34 Edifici Bureau Veritas",
+  "cp": "08195",
+  "municipio": "Sant Cugat del Vallès",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "telefono1": "932 43 99 00",
+  "telefono2": "",
+  "fax": "932 43 99 01",
+  "email": "gabriel.jerez@es.bureauveritas.com",
+  "web": "RG ECCE Generalitat Cataluña",
+  "web_url": "http://habitatge.gencat.cat/web/.content/home/ambits_dactuacio/qualitat_tecnica/qualitat_de_ledificacio/entitats_de_control_de_qualitat_de_ledificacio/dr_entitats__es_.xls",
+  "referencia": "00506",
+  "inscripcion_ccaa": "E0600011",
+  "fecha_alta": "07/04/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "07/04/2014",
+   "22/07/2016",
+   "26/07/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util, verificando el cumplimiento de las exigencias básicas del CTE y demás normativa aplicable.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-005",
+  "nif": "A59555466",
+  "empresa": "TÜV Rheinland Iberica inspection Certification & Testing, SA",
+  "direccion": "c/ Garrotxa, 10",
+  "cp": "08820",
+  "municipio": "Prat de Llobregat, El",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "telefono1": "934 78 11 31",
+  "telefono2": "",
+  "fax": "934 78 07 68",
+  "email": "gonzalo.decastro@es.tuv.com",
+  "web": "RG ECCE Generalitat Cataluña",
+  "web_url": "http://habitatge.gencat.cat/web/.content/home/ambits_dactuacio/qualitat_tecnica/qualitat_de_ledificacio/entitats_de_control_de_qualitat_de_ledificacio/dr_entitats__es_.xls",
+  "referencia": "00529",
+  "inscripcion_ccaa": "E0600005",
+  "fecha_alta": "22/07/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "22/07/2014"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-006",
+  "nif": "B065766826",
+  "empresa": "INGENIEROS & EFICIENCIA MSJM SL",
+  "direccion": "C/ Joaquim Molins, 42-C",
+  "cp": "08780",
+  "municipio": "Pallejà",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "telefono1": "656 85 35 80",
+  "telefono2": "",
+  "fax": "",
+  "email": "msesma@msingenierossl.com",
+  "web": "RG ECCE Generalitat Cataluña",
+  "web_url": "http://habitatge.gencat.cat/web/.content/home/ambits_dactuacio/qualitat_tecnica/qualitat_de_ledificacio/entitats_de_control_de_qualitat_de_ledificacio/dr_entitats__es_.xls",
+  "referencia": "00562",
+  "inscripcion_ccaa": "E0600006 E0600007 E0600008",
+  "fecha_alta": "16/01/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "16/01/2015",
+   "27/02/2015",
+   "07/10/2015",
+   "26/07/2016",
+   "15/11/2017",
+   "15/11/2017",
+   "15/11/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-007",
+  "nif": "B84840685",
+  "empresa": "TPF GETINSA-EUROESTUDIOS, SL",
+  "direccion": "Avigunda Cerdanyola, 92-94",
+  "cp": "08174",
+  "municipio": "Sant Cugat del Vallès",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "telefono1": "935 75 28 34",
+  "telefono2": "",
+  "fax": "935 64 89 00",
+  "email": "gbernaus@getinsapayma.com",
+  "web": "RG ECCE Generalitat Cataluña",
+  "web_url": "http://habitatge.gencat.cat/web/.content/home/ambits_dactuacio/qualitat_tecnica/qualitat_de_ledificacio/entitats_de_control_de_qualitat_de_ledificacio/dr_entitats__es_.xls",
+  "referencia": "00579(07)",
+  "inscripcion_ccaa": "E0600009",
+  "fecha_alta": "05/07/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "05/07/2016"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-008",
+  "nif": "A81670614",
+  "empresa": "TÜV SÜD IBERIA, SAU",
+  "direccion": "Ronda Can Fatjó, 13",
+  "cp": "08290",
+  "municipio": "Cerdanyola del Vallès",
+  "provincia": "Barcelona",
+  "comunidad": "Cataluña",
+  "telefono1": "935 94 44 80",
+  "telefono2": "",
+  "fax": "935 94 01 91",
+  "email": "Oct-barcelona@atisae.com",
+  "web": "RG ECCE Generalitat Cataluña",
+  "web_url": "http://habitatge.gencat.cat/web/.content/home/ambits_dactuacio/qualitat_tecnica/qualitat_de_ledificacio/entitats_de_control_de_qualitat_de_ledificacio/dr_entitats__es_.xls",
+  "referencia": "00634(02)",
+  "inscripcion_ccaa": "E0600012",
+  "fecha_alta": "06/02/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "06/02/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. De las prestaciones del edificio a lo largo de su vida útil para verificar el CTE  y normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "CAT-E-009",
+  "nif": "B55241996",
+  "empresa": "Inspeccions Tècniques de Catalunya,SL",
+  "direccion": "Avenida Mas Pins, 150, 1º - 1º",
+  "cp": "17457",
+  "municipio": "Riudellots de la Selva",
+  "provincia": "Girona",
+  "comunidad": "Cataluña",
+  "telefono1": "972 98 19 61",
+  "telefono2": "",
+  "fax": "",
+  "email": "instecat@instecat.com",
+  "web": "RG ECCE Generalitat Cataluña",
+  "web_url": "http://habitatge.gencat.cat/web/.content/home/ambits_dactuacio/qualitat_tecnica/qualitat_de_ledificacio/entitats_de_control_de_qualitat_de_ledificacio/dr_entitats__es_.xls",
+  "referencia": "00663",
+  "inscripcion_ccaa": "E0600014",
+  "fecha_alta": "05/12/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "05/12/2017"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-001",
+  "nif": "A46101440",
+  "empresa": "CIVITUM Ingeniería y Control, SA",
+  "direccion": "Calle Juan de la Cierva, 8. Parque Tecnológico Mas Camarena",
+  "cp": "46980",
+  "municipio": "Paterna",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "902 22 60 75",
+  "telefono2": "",
+  "fax": "902 22 60 85",
+  "email": "civitum@civitum.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00081",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "31/03/2011",
+  "baja": "BAJA",
+  "fecha_baja": "09/04/2013",
+  "declaraciones": [
+   "31/03/2011",
+   "09/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-002",
+  "nif": "A12042420",
+  "empresa": "Asistencia Técnica y Control de Calidad de la Construcción, SA (ATCONTROLSA)",
+  "direccion": "Avenida Hermanos Bou, 171",
+  "cp": "12100",
+  "municipio": "Castellón de la Plana/Castelló de la Plana",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "964 78 11 00",
+  "telefono2": "",
+  "fax": "964 78 11 11",
+  "email": "atcontrol@grupo-atcontrol.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00026",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "18/11/2010",
+  "baja": "BAJA",
+  "fecha_baja": "22/06/2013",
+  "declaraciones": [
+   "18/11/2010",
+   "22/06/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE-DB SE",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE-SI4",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "b) Cumplimiento REBT",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-004",
+  "nif": "B97064992",
+  "empresa": "Entidad de Control, Investigación y Tecnología, SL (ECIT, SL)",
+  "direccion": "Calle Juan de la Cierva, 8. Parque Tecnológico de Paterna",
+  "cp": "46980",
+  "municipio": "Paterna",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "902 22 60 70",
+  "telefono2": "",
+  "fax": "902 22 60 85",
+  "email": "ecit@ecit.es",
+  "web": "RG ECCE VAL-E-004.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-004.pdf",
+  "referencia": "00126",
+  "inscripcion_ccaa": "07 006",
+  "fecha_alta": "09/05/2007",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "09/05/2007"
+  ],
+  "alcance": [
+   {
+    "concepto": "07: SE C/estr",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": false
+ },
+ {
+  "cod": "VAL-E-005",
+  "nif": "A46202206",
+  "empresa": "HORAING, SA",
+  "direccion": "Calle Calderers, 28. Polígono Industrial III",
+  "cp": "46120",
+  "municipio": "Alboraya",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "961 85 90 00",
+  "telefono2": "",
+  "fax": "961 85 66 08",
+  "email": "horaing@horaing.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00215",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "03/06/2010",
+  "baja": "BAJA",
+  "fecha_baja": "13/06/2013",
+  "declaraciones": [
+   "03/06/2010",
+   "13/06/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-006",
+  "nif": "A03263639",
+  "empresa": "Instituto Técnico de la Construcción, SA (ITC SA)",
+  "direccion": "Avenida de Elche, 164",
+  "cp": "03008",
+  "municipio": "Alicante/Alacant",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "965 10 76 00",
+  "telefono2": "",
+  "fax": "965 10 48 19",
+  "email": "ngimenez@itcsa.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00277",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "22/07/2010",
+  "baja": "BAJA",
+  "fecha_baja": "27/05/2013",
+  "declaraciones": [
+   "22/07/2010",
+   "27/05/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-007",
+  "nif": "A12044970",
+  "empresa": "COMAYPA, SA",
+  "direccion": "Polígono Industrial Ronda Sur, Calle Sierra Irta, Nave 34",
+  "cp": "12006",
+  "municipio": "Castellón de la Plana/Castelló de la Plana",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "964 24 22 22",
+  "telefono2": "",
+  "fax": "964 24 21 92",
+  "email": "calidad@comaypa.es",
+  "web": "RG ECCE VAL-E-007.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-007.pdf",
+  "referencia": "00083",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "26/07/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "26/07/2010",
+   "11/11/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-008",
+  "nif": "B46954152",
+  "empresa": "Marsan Ingenieros, SLU",
+  "direccion": "Parque Tecnológico Ronda Guglielmo Marconi.",
+  "cp": "46980",
+  "municipio": "Paterna",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "963 62 45 04",
+  "telefono2": "",
+  "fax": "963 60 46 08",
+  "email": "marsaningenieros@marsaningenieros.es",
+  "web": "RG ECCE VAL-E-008.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-008.pdf",
+  "referencia": "00349",
+  "inscripcion_ccaa": "07 011",
+  "fecha_alta": "23/02/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "23/02/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": false
+ },
+ {
+  "cod": "VAL-E-010",
+  "nif": "B97677124",
+  "empresa": "INSERTEC Iberia, SL",
+  "direccion": "Calle Padre Tomas de Montañana, 22-Entresuelo-C",
+  "cp": "46023",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "902 63 66 43",
+  "telefono2": "",
+  "fax": "963 28 30 58",
+  "email": "info@inserteciberia.com",
+  "web": "RG ECCE VAL-E-010.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-010.pdf",
+  "referencia": "00253",
+  "inscripcion_ccaa": "07 015",
+  "fecha_alta": "04/02/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "04/02/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "10: EEE",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": false
+ },
+ {
+  "cod": "VAL-E-011",
+  "nif": "B98183809",
+  "empresa": "EFITRES Control, SL",
+  "direccion": "Plaza Mercado Nuevo, 1 Bajo",
+  "cp": "46011",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "665 98 74 16",
+  "telefono2": "",
+  "fax": "",
+  "email": "efitres@gmail.com",
+  "web": "RG ECCE VAL-E-011.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-011.pdf",
+  "referencia": "00116",
+  "inscripcion_ccaa": "07 016",
+  "fecha_alta": "10/02/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "10/02/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "10: EEE",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": false
+ },
+ {
+  "cod": "VAL-E-012",
+  "nif": "A53991261",
+  "empresa": "Sondeos, Obras y Estudios Geotécnicos, SA",
+  "direccion": "Polígono Industrial Lo Quilez, Parcela 2-J S.Miguel de Salinas",
+  "cp": "03193",
+  "municipio": "Alicante/Alacant",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "966 72 12 18",
+  "telefono2": "",
+  "fax": "966 72 12 47",
+  "email": "alonsocarmelo@yahoo.es",
+  "web": "RG ECCE VAL-E-012.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-012.pdf",
+  "referencia": "00411",
+  "inscripcion_ccaa": "07 017",
+  "fecha_alta": "03/03/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "03/03/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "10: EEE",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": false
+ },
+ {
+  "cod": "VAL-E-013",
+  "nif": "B12316501",
+  "empresa": "Laboratorio y Entidad de Contol, SL",
+  "direccion": "Polígono Industrial El Collet, Parcela 503.",
+  "cp": "12580",
+  "municipio": "Benicarló",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "964 46 10 01",
+  "telefono2": "",
+  "fax": "964 46 13 70",
+  "email": "control@laeco.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00336",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "27/07/2010",
+  "baja": "BAJA",
+  "fecha_baja": "09/02/2017",
+  "declaraciones": [
+   "27/07/2010",
+   "09/02/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-014",
+  "nif": "B54445093",
+  "empresa": "EFINER Consultoría Energética, SL",
+  "direccion": "Calle Juan Ramón Jiménez, 6",
+  "cp": "03730",
+  "municipio": "Jávea/Xàbia",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "651 86 89 90",
+  "telefono2": "",
+  "fax": "",
+  "email": "ondara@consultoriaenergetica.es",
+  "web": "RG ECCE VAL-E-014.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-014.pdf",
+  "referencia": "00115",
+  "inscripcion_ccaa": "07 019",
+  "fecha_alta": "11/03/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "11/03/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "10: EEE",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": false
+ },
+ {
+  "cod": "VAL-E-015",
+  "nif": "B12421616",
+  "empresa": "QUACER, SL",
+  "direccion": "Calle Alfonso pallares, 1-1ª",
+  "cp": "12200",
+  "municipio": "Onda",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "964 77 17 69",
+  "telefono2": "",
+  "fax": "964 77 12 60",
+  "email": "quacer@quacer.es",
+  "web": "RG ECCE VAL-E-015.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-015.pdf",
+  "referencia": "00376",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "24/03/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "24/03/2011",
+   "02/04/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-016",
+  "nif": "B97033377",
+  "empresa": "Técnicos para la Innovación, Desarrollo y Apoyo Medioambiental, SL (TIDAM)",
+  "direccion": "Calle Jesús, 61 - entresuelo",
+  "cp": "46007",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "",
+  "telefono2": "",
+  "fax": "",
+  "email": "",
+  "web": "",
+  "web_url": "",
+  "referencia": "00109",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/11/2010",
+  "baja": "BAJA",
+  "fecha_baja": "16/07/2013",
+  "declaraciones": [
+   "15/11/2010",
+   "16/07/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-017",
+  "nif": "B54300777",
+  "empresa": "Beta CAD and Business, SLU",
+  "direccion": "Calle Alcalde Oncina Giner 6, 3º F",
+  "cp": "03560",
+  "municipio": "Campello, el",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "687 49 09 08",
+  "telefono2": "",
+  "fax": "",
+  "email": "info@bcab.es",
+  "web": "RG ECCE VAL-E-017.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-017.pdf",
+  "referencia": "00044",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "28/03/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "28/03/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-018",
+  "nif": "B98161532",
+  "empresa": "Celemin Eficiente, SL",
+  "direccion": "Calle Doctor Barraquer, 2 (centro comercial \"\"El prado\"\", local 14-15/1)",
+  "cp": "03760",
+  "municipio": "Ondara",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "965 76 76 59",
+  "telefono2": "",
+  "fax": "965 76 76 59",
+  "email": "eficiente@celemineficiente.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00058",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "10/06/2011",
+  "baja": "BAJA",
+  "fecha_baja": "03/05/2013",
+  "declaraciones": [
+   "10/06/2011",
+   "03/05/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-019",
+  "nif": "B54077748",
+  "empresa": "ETRES Consultoría y Edificación, SL - ETRES Consultores ECCE",
+  "direccion": "C/ Alfonso XII, 31 - Local 2",
+  "cp": "03201",
+  "municipio": "Elche/Elx",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "965 45 51 29",
+  "telefono2": "",
+  "fax": "965 45 51 29",
+  "email": "ecce@etresconsultores.com",
+  "web": "RG ECCE VAL-E-019.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-019.pdf",
+  "referencia": "00139",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "06/07/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "06/07/2011",
+   "09/12/2013",
+   "01/12/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-020",
+  "nif": "A46449112",
+  "empresa": "EVREN, EVALUACION DE RECURSOS NATURALES, SA",
+  "direccion": "Calle Conde de Altea, 1, planta 4",
+  "cp": "46184",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "963 95 94 96",
+  "telefono2": "",
+  "fax": "963 73 76 28",
+  "email": "morteqa@evren.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00144",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "07/07/2011",
+  "baja": "BAJA",
+  "fecha_baja": "07/04/2014",
+  "declaraciones": [
+   "07/07/2011",
+   "07/04/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-021",
+  "nif": "B96183223",
+  "empresa": "TCO GESOCAN Geotécnia Medioambiental y Control de Calidad, SL",
+  "direccion": "Calle Pla del Conde, 24",
+  "cp": "46860",
+  "municipio": "Albaida",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "962 35 66 86",
+  "telefono2": "",
+  "fax": "962 35 61 13",
+  "email": "tco@tco-sl.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00417",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "01/08/2011",
+  "baja": "BAJA",
+  "fecha_baja": "21/02/2014",
+  "declaraciones": [
+   "01/08/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-022",
+  "nif": "B12869194",
+  "empresa": "Ábaco Innovación, SL",
+  "direccion": "Castellón, 32 3º",
+  "cp": "12400",
+  "municipio": "Segorbe",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "687 98 39 51",
+  "telefono2": "",
+  "fax": "",
+  "email": "gperez@abacoinnovacion.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00002",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "01/08/2011",
+  "baja": "BAJA",
+  "fecha_baja": "25/07/2013",
+  "declaraciones": [
+   "01/08/2011",
+   "25/07/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-023",
+  "nif": "B54345855",
+  "empresa": "Ingenieros Acústicos Consulting, SLPU",
+  "direccion": "Calle Rigel, 29 - bajo",
+  "cp": "03007",
+  "municipio": "Alicante/Alacant",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "965 11 40 04",
+  "telefono2": "",
+  "fax": "965 11 40 04",
+  "email": "raul.martinez@ingenierosacusticos.com",
+  "web": "RG ECCE VAL-E-023.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-023.pdf",
+  "referencia": "00246",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "11/08/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "11/08/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-024",
+  "nif": "B12874491",
+  "empresa": "ECOEFYS Asesoría técnica, SL",
+  "direccion": "Avenida Virgen de Lidón, 59",
+  "cp": "12004",
+  "municipio": "Castellón de la Plana/Castelló de la Plana",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "620 25 65 07",
+  "telefono2": "",
+  "fax": "",
+  "email": "raulgpiquer@ecoefys.com",
+  "web": "RG ECCE VAL-E-024.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-024.pdf",
+  "referencia": "00113",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "17/10/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "17/10/2011",
+   "12/06/2013",
+   "02/10/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento del CTE, DB HE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-025",
+  "nif": "B97684583",
+  "empresa": "Ingeniería Multidisciplinar EMIN, SL",
+  "direccion": "Calle Manuel Brosseta, 33, local 3 - 5",
+  "cp": "40780",
+  "municipio": "Oliva",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "962 83 89 62",
+  "telefono2": "",
+  "fax": "962 83 89 62",
+  "email": "emin@emin-sl.es",
+  "web": "RG ECCE VAL-E-025.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-025.pdf",
+  "referencia": "00239",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "27/02/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "27/02/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-026",
+  "nif": "B03744166",
+  "empresa": "REFORTEC, SL",
+  "direccion": "Carretera de Agost, 99, nave 10",
+  "cp": "03690",
+  "municipio": "San Vicente del Raspeig/Sant Vicent del Raspeig",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "965 67 43 38",
+  "telefono2": "",
+  "fax": "965 67 43 38",
+  "email": "refortec@refortec.com",
+  "web": "RG ECCE VAL-E-026.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-026.pdf",
+  "referencia": "00381",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "18/05/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/05/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-027",
+  "nif": "",
+  "empresa": "Agencia de Gestión de la Eficiencia Energética y el Confort (ENFORT)",
+  "direccion": "Cami de Vera, s/n. Edificio 4-A, planta 2ª",
+  "cp": "46022",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "961 13 54 38",
+  "telefono2": "",
+  "fax": "",
+  "email": "joaquim.iborra@rehabi-li-tar.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00122",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "29/06/2012",
+  "baja": "BAJA",
+  "fecha_baja": "10/10/2013",
+  "declaraciones": [
+   "29/06/2012",
+   "10/10/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-028",
+  "nif": "",
+  "empresa": "XPI Enginyeria",
+  "direccion": "Avenida Gandient, 08 01",
+  "cp": "46410",
+  "municipio": "Sueca",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "696 23 93 45",
+  "telefono2": "",
+  "fax": "961 70 01 70",
+  "email": "fxpi@copitival.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00440",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "19/07/2012",
+  "baja": "BAJA",
+  "fecha_baja": "11/04/2013",
+  "declaraciones": [
+   "19/07/2012",
+   "11/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-029",
+  "nif": "A46228730",
+  "empresa": "Sondeos, Estructuras y Geotécnia, SA (SEG, SA)",
+  "direccion": "Calle Camp de Turia, 51 Polígono Industrial El Bovalar",
+  "cp": "46970",
+  "municipio": "Alaquàs",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "963 97 90 09",
+  "telefono2": "",
+  "fax": "963 97 32 82",
+  "email": "seg@seg-sa.es",
+  "web": "RG ECCE VAL-E-029.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-029.pdf",
+  "referencia": "00410",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "24/09/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "24/09/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-030",
+  "nif": "B98207822",
+  "empresa": "Gestión Técnica AMB, SL",
+  "direccion": "Paseo Ruzafa, 9, puerta 10",
+  "cp": "46002",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "963 28 20 46",
+  "telefono2": "",
+  "fax": "963 81 65 63",
+  "email": "gestiontecnicasl@gmail.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00205",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "17/10/2012",
+  "baja": "BAJA",
+  "fecha_baja": "15/04/2013",
+  "declaraciones": [
+   "17/10/2012",
+   "15/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-031",
+  "nif": "B53338588",
+  "empresa": "Gestión Técnica de Proyectos y Obras, SL",
+  "direccion": "Calle Nazarios, 5. Polígono Industrial Los Nazarios",
+  "cp": "03179",
+  "municipio": "Formentera del Segura",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "699 31 08 60",
+  "telefono2": "",
+  "fax": "966 79 28 19",
+  "email": "nicolas@gestecsl.com",
+  "web": "RG ECCE VAL-E-031.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-031.pdf",
+  "referencia": "00206",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "06/02/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "06/02/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-032",
+  "nif": "B46631123",
+  "empresa": "QUALIBERICA, SL",
+  "direccion": "Calle Cirilo Amorós, 62, 2º Piso Puertas A y D",
+  "cp": "46004",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "943 47 12 03",
+  "telefono2": "",
+  "fax": "943 44 55 31",
+  "email": "m.lombana@gualiberica.com",
+  "web": "RG ECCE VAL-E-032.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-032.pdf",
+  "referencia": "00377",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "13/06/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "13/06/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-033",
+  "nif": "B97449532",
+  "empresa": "URBEMED Ingenieria y Paisaje, SL",
+  "direccion": "Calle Cronista Carreres, 13, entresuelo 1ª",
+  "cp": "46003",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "963 44 24 26",
+  "telefono2": "",
+  "fax": "963 44 24 27",
+  "email": "dcubedo@urbemed.com",
+  "web": "RG ECCE VAL-E-033.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-033.pdf",
+  "referencia": "00434",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "13/05/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "13/05/2013"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-034",
+  "nif": "B98369960",
+  "empresa": "ASVER Verificaciones, SLU",
+  "direccion": "Calle Mitgera, nave 7",
+  "cp": "46560",
+  "municipio": "Massalfassar",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "961 40 22 73",
+  "telefono2": "",
+  "fax": "",
+  "email": "asververificaciones@yahoo.es",
+  "web": "RG ECCE VAL-E-034.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-034.pdf",
+  "referencia": "00031",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "23/04/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "23/04/2013"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-035",
+  "nif": "B12905386",
+  "empresa": "CITEC, Ingeniería, Control y Medio Ambiente, SLL",
+  "direccion": "Avenida Chatellerault, 11 bloque B, Bajo",
+  "cp": "12005",
+  "municipio": "Castellón de la Plana/Castelló de la Plana",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "964 03 10 16",
+  "telefono2": "",
+  "fax": "964 03 10 16",
+  "email": "citec@citecsl.com",
+  "web": "RG ECCE VAL-E-035.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-035.pdf",
+  "referencia": "00080",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "04/06/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "04/06/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-036",
+  "nif": "B54716725",
+  "empresa": "Eficlic Certificacions i Solucions Energétiques, SLP",
+  "direccion": "C/ Colón, 19",
+  "cp": "03700",
+  "municipio": "Dénia",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "696 40 78 48",
+  "telefono2": "",
+  "fax": "",
+  "email": "anavicensberto@gmail.com",
+  "web": "RG ECCE VAL-E-036.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-036.pdf",
+  "referencia": "00488",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "14/11/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "14/11/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-037",
+  "nif": "A98030604",
+  "empresa": "VIELCA INGENIEROS, SA",
+  "direccion": "Avda. Aragón, 17 entlo",
+  "cp": "46010",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "963 60 42 85",
+  "telefono2": "",
+  "fax": "963 61 97 44",
+  "email": "vicente.c@vielca.com",
+  "web": "RG ECCE VAL-E-037.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-037.pdf",
+  "referencia": "00513",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "27/06/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "27/06/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-038",
+  "nif": "G46397691",
+  "empresa": "INSTITUTO VALENCIANO DE LA EDIFICACIÓN",
+  "direccion": "Tres Forques, 98",
+  "cp": "46018",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "963 98 65 40",
+  "telefono2": "",
+  "fax": "963 98 65 04",
+  "email": "irios@five.es",
+  "web": "RG ECCE VAL-E-038.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-038.pdf",
+  "referencia": "00549",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "11/12/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "11/12/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-039",
+  "nif": "B98462252",
+  "empresa": "C2C Servicios Técnicos de Inspección, SL",
+  "direccion": "Carrer Pla del Conde,24",
+  "cp": "46860",
+  "municipio": "Albaida",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "962 35 66 86",
+  "telefono2": "",
+  "fax": "962 35 61 13",
+  "email": "emilio.sanchis@c2c-sti.com",
+  "web": "RG ECCE VAL-E-039.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-039.pdf",
+  "referencia": "00453(01)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "18/02/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/02/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "EFICIENCIA ENERGÉTICA",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-040",
+  "nif": "B97669063",
+  "empresa": "PROTEC, Estudios y Proyectos de Ingeniería, SLU",
+  "direccion": "c/ Puçol, 13",
+  "cp": "46540",
+  "municipio": "Puig de Santa Maria, el",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "961 47 13 68",
+  "telefono2": "",
+  "fax": "961 47 13 68",
+  "email": "protec@protecproyectos.com",
+  "web": "RG ECCE VAL-E-040.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-040.pdf",
+  "referencia": "00608",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/04/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/04/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-041",
+  "nif": "B54674692",
+  "empresa": "HIPOTEP, SL",
+  "direccion": "Avenida Campo Torres,14 Pta 11",
+  "cp": "03700",
+  "municipio": "Dénia",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "606 15 73 79",
+  "telefono2": "",
+  "fax": "",
+  "email": "HIPOTEP@GMAIL.COM",
+  "web": "RG ECCE VAL-E-041.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-041.pdf",
+  "referencia": "00629",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "10/11/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "10/11/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-042",
+  "nif": "B98672181",
+  "empresa": "REHABI-LI-TAR Gestió i Promoció de la Rehabilitació, SLU",
+  "direccion": "Calle Sant Vicent Martir, 114-4",
+  "cp": "46007",
+  "municipio": "Valencia",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "961 13 54 38",
+  "telefono2": "",
+  "fax": "",
+  "email": "eficiencia@rehabi-li-tar.com",
+  "web": "RG ECCE VAL-E-042.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-042.pdf",
+  "referencia": "00630",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "02/12/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "02/12/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. De las prestaciones del edificio a lo largo de su vida útil para verificar el CTE  y normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-043",
+  "nif": "B12749305",
+  "empresa": "MAESTRAT Global, SL",
+  "direccion": "Paseo Ribalta, N° 1",
+  "cp": "12004",
+  "municipio": "Castellón de la Plana/Castelló de la Plana",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "617 14 16 28",
+  "telefono2": "964 03 81 99",
+  "fax": "964 21 10 96",
+  "email": "info@mglobal.es",
+  "web": "RG ECCE VAL-E-043.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-043.pdf",
+  "referencia": "00348",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "22/12/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "22/12/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-044",
+  "nif": "B12316501",
+  "empresa": "Laboratorio y Entidad de Contol, SL",
+  "direccion": "Polígono Industrial El Collet, Parcela 503.",
+  "cp": "12580",
+  "municipio": "Benicarló",
+  "provincia": "Castellón / Castelló",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "964 46 10 01",
+  "telefono2": "",
+  "fax": "964 46 13 70",
+  "email": "laeco@laeco.com",
+  "web": "RG ECCE VAL-E-044.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-044.pdf",
+  "referencia": "00336(01)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "01/01/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "01/01/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "EFICIENCIA ENERGÉTICA",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-045",
+  "nif": "B54530050",
+  "empresa": "DUES Eficiencia y Edificación, SL",
+  "direccion": "Calle Goya, 1 - 4º",
+  "cp": "03801",
+  "municipio": "Alcoy/Alcoi",
+  "provincia": "Alicante / Alacant",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "639 67 11 21",
+  "telefono2": "",
+  "fax": "965 54 16 16",
+  "email": "gerencia@dues.es",
+  "web": "RG ECCE VAL-E-045.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-045.pdf",
+  "referencia": "00639",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "17/02/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "17/02/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-046",
+  "nif": "B98867648",
+  "empresa": "OCT Decenal Plus SL",
+  "direccion": "Calle 29, nº 18",
+  "cp": "46185",
+  "municipio": "Pobla de Vallbona, la",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "608 99 24 41",
+  "telefono2": "",
+  "fax": "",
+  "email": "ingenieria@octplus.es",
+  "web": "RG ECCE VAL-E-046.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-046.pdf",
+  "referencia": "00642",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/02/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "20/02/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "VAL-E-047",
+  "nif": "B98447063",
+  "empresa": "Laboratorio de Calidad y Tecnología de los Materiales, SL (CyTEM)",
+  "direccion": "Polígono Industrial El Oliveral (Fase II), Calle Piedrapiquers, s/n",
+  "cp": "46190",
+  "municipio": "Riba-roja de Túria",
+  "provincia": "Valencia / València",
+  "comunidad": "Comunitat Valenciana",
+  "telefono1": "961 64 31 60",
+  "telefono2": "",
+  "fax": "961 66 52 24",
+  "email": "cmachiran@cytemsl.com",
+  "web": "RG ECCE VAL-E-047.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/VAL-E-047.pdf",
+  "referencia": "00296(02)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "02/06/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "02/06/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "EXT-E-001",
+  "nif": "08807842S",
+  "empresa": "Carlos Ortega Polo",
+  "direccion": "C/ Luis Álvarez Lencero,3 Bloque Eurodom, Piso 2, Puerta 10",
+  "cp": "06010",
+  "municipio": "Badajoz",
+  "provincia": "Badajoz",
+  "comunidad": "Extremadura",
+  "telefono1": "620 28 58 79",
+  "telefono2": "",
+  "fax": "924 93 91 87",
+  "email": "ortecarlos@gmail.com",
+  "web": "RG ECCE GOBIERNO DE EXTREMADURA",
+  "web_url": "http://fomento.gobex.es/fomento/live/informacion-ciudadano/Arquitectura/controlcalidad/registrolaboratorios/seccionsegunda.html",
+  "referencia": "00454",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "30/04/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "30/04/2013",
+   "14/12/2016"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "EXT-E-002",
+  "nif": "76267393Z",
+  "empresa": "Grajera Garriga Carlos Gustavo",
+  "direccion": "Calle Vega de Alagón, 7",
+  "cp": "06800",
+  "municipio": "Mérida",
+  "provincia": "Badajoz",
+  "comunidad": "Extremadura",
+  "telefono1": "603 62 72 64",
+  "telefono2": "",
+  "fax": "",
+  "email": "grageracg@yahoo.es",
+  "web": "RG ECCE GOBIERNO DE EXTREMADURA",
+  "web_url": "http://fomento.gobex.es/fomento/live/informacion-ciudadano/Arquitectura/controlcalidad/registrolaboratorios/seccionsegunda.html",
+  "referencia": "00497",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "06/02/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "06/02/2014",
+   "21/04/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "EXT-E-003",
+  "nif": "B06494892",
+  "empresa": "ELABOREX Calidad en la Construcción, SL",
+  "direccion": "Polígono Industrial El Nevero Calle Quince,44",
+  "cp": "06006",
+  "municipio": "Badajoz",
+  "provincia": "Badajoz",
+  "comunidad": "Extremadura",
+  "telefono1": "924 20 70 50",
+  "telefono2": "",
+  "fax": "924 20 73 93",
+  "email": "elaborex@elaborex.es",
+  "web": "RG ECCE GOBIERNO DE EXTREMADURA",
+  "web_url": "http://fomento.gobex.es/fomento/live/informacion-ciudadano/Arquitectura/controlcalidad/registrolaboratorios/seccionsegunda.html",
+  "referencia": "00119",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "04/02/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "04/02/2015"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "EXT-E-004",
+  "nif": "B10440147",
+  "empresa": "SONITU Consultoría y Servicios, SL",
+  "direccion": "Av. Soledad Vega Ortíz, 97 - 3ºB",
+  "cp": "10450",
+  "municipio": "Jarandilla de la Vera",
+  "provincia": "Cáceres",
+  "comunidad": "Extremadura",
+  "telefono1": "618 76 03 16",
+  "telefono2": "",
+  "fax": "",
+  "email": "sonitu@sonitu.es",
+  "web": "RG ECCE GOBIERNO DE EXTREMADURA",
+  "web_url": "http://fomento.gobex.es/fomento/live/informacion-ciudadano/Arquitectura/controlcalidad/registrolaboratorios/seccionsegunda.html",
+  "referencia": "00538",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "11/12/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "11/12/2015"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "EXT-E-005",
+  "nif": "B06593016",
+  "empresa": "PAYMACOTAS EXTREMADURA SLU",
+  "direccion": "Poligono Industrial San Isidro - C/ Marugate - Nave 7",
+  "cp": "06400",
+  "municipio": "Don Benito",
+  "provincia": "Badajoz",
+  "comunidad": "Extremadura",
+  "telefono1": "924 80 54 68",
+  "telefono2": "",
+  "fax": "924 80 33 34",
+  "email": "ochamorro@getinsapayma.com",
+  "web": "RG ECCE GOBIERNO DE EXTREMADURA",
+  "web_url": "http://fomento.gobex.es/fomento/live/informacion-ciudadano/Arquitectura/controlcalidad/registrolaboratorios/seccionsegunda.html",
+  "referencia": "00590",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "23/12/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "23/12/2015"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "EXT-E-006",
+  "nif": "B10468809",
+  "empresa": "ENSAPROEX, Ensayos y Proyectos Extremeños",
+  "direccion": "Calle Isaac Peral, P-65-11",
+  "cp": "10600",
+  "municipio": "Plasencia",
+  "provincia": "Cáceres",
+  "comunidad": "Extremadura",
+  "telefono1": "639 16 50 18",
+  "telefono2": "",
+  "fax": "",
+  "email": "info@ensaproc.com",
+  "web": "RG ECCE GOBIERNO DE EXTREMADURA",
+  "web_url": "http://fomento.gobex.es/fomento/live/informacion-ciudadano/Arquitectura/controlcalidad/registrolaboratorios/seccionsegunda.html",
+  "referencia": "00628",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "27/04/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "27/04/2017"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "EXT-E-007",
+  "nif": "B06609143",
+  "empresa": "Instituto Extremeño de Geotécnia, SLU",
+  "direccion": "Polígono Industrial San Isidro, Calle Carpinteros, 16. Apartado de Correos 235",
+  "cp": "06400",
+  "municipio": "Don Benito",
+  "provincia": "Badajoz",
+  "comunidad": "Extremadura",
+  "telefono1": "924 80 17 28",
+  "telefono2": "",
+  "fax": "924 80 10 07",
+  "email": "info@inigeo.com",
+  "web": "RG ECCE GOBIERNO DE EXTREMADURA",
+  "web_url": "http://fomento.gobex.es/fomento/live/informacion-ciudadano/Arquitectura/controlcalidad/registrolaboratorios/seccionsegunda.html",
+  "referencia": "00258",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "18/05/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/05/2017"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-001",
+  "nif": "A36039956",
+  "empresa": "ENMACOSA, SA",
+  "direccion": "Rua A Torre, 26",
+  "cp": "36979",
+  "municipio": "Sanxenxo",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "telefono1": "986 80 12 00",
+  "telefono2": "",
+  "fax": "986 69 00 37",
+  "email": "mmiranda@enmacosa.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00123",
+  "inscripcion_ccaa": "E-15001.01 EE/2009-AC y E-15001.01/2009-AC",
+  "fecha_alta": "23/09/2009",
+  "baja": "BAJA",
+  "fecha_baja": "03/03/2015",
+  "declaraciones": [
+   "23/09/2009",
+   "23/12/2009",
+   "03/03/2015"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-003",
+  "nif": "A32022535",
+  "empresa": "G.O.C., SA",
+  "direccion": "Calle Doctor Canoa, 5 - Bajo",
+  "cp": "36206",
+  "municipio": "Vigo",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "telefono1": "986 37 71 11",
+  "telefono2": "",
+  "fax": "986 37 48 54",
+  "email": "calidad@gocsa.es",
+  "web": "RG ECCE GAL-E-003.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-003.pdf",
+  "referencia": "00154",
+  "inscripcion_ccaa": "E-15003/2009-AC",
+  "fecha_alta": "11/02/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "11/02/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-005",
+  "nif": "A81920084",
+  "empresa": "EPTISA, Servicios de Ingeniería, SA",
+  "direccion": "Calle Pérez Cepeda, 5-7",
+  "cp": "15004",
+  "municipio": "Coruña, A",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "telefono1": "981 66 09 58",
+  "telefono2": "",
+  "fax": "981 65 44 68",
+  "email": "fmartinezlozano@eptisa.com",
+  "web": "RG ECCE GAL-E-005.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-005.pdf",
+  "referencia": "00463",
+  "inscripcion_ccaa": "E-1006 DR",
+  "fecha_alta": "18/01/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/01/2010",
+   "30/03/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "EE CT",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-009",
+  "nif": "B36406668",
+  "empresa": "Estudios MIKAR, SL",
+  "direccion": "Callejón Solla, 1 - entresuelo",
+  "cp": "36900",
+  "municipio": "Marín",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "telefono1": "986 83 81 96",
+  "telefono2": "",
+  "fax": "986 83 95 90",
+  "email": "estudiosmikar@estudiosmikarsl.com",
+  "web": "RG ECCE GAL-E-009.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-009.pdf",
+  "referencia": "00138",
+  "inscripcion_ccaa": "E-150009/2010-AC y E-150009.01/2011-DR",
+  "fecha_alta": "04/06/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "04/06/2010",
+   "03/02/2011"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-011",
+  "nif": "B27027143",
+  "empresa": "Investigación y Control Lugo, SL (INVECO, SL)",
+  "direccion": "Estrada da Coruña, 22 - bajo",
+  "cp": "27003",
+  "municipio": "Lugo",
+  "provincia": "Lugo",
+  "comunidad": "Galicia",
+  "telefono1": "982 21 52 00",
+  "telefono2": "",
+  "fax": "982 20 24 46",
+  "email": "inveco@invecosl.com",
+  "web": "RG ECCE GAL-E-011.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-011.pdf",
+  "referencia": "00267",
+  "inscripcion_ccaa": "E-15011/2010-DR",
+  "fecha_alta": "31/08/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "31/08/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-012",
+  "nif": "B36651487",
+  "empresa": "GALAICONTROL, SL",
+  "direccion": "Parque Tecnológico L. de Vigo - Rua B - Valladares",
+  "cp": "36314",
+  "municipio": "Vigo",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "telefono1": "986 25 00 90",
+  "telefono2": "986 25 37 90",
+  "fax": "986 25 37 90",
+  "email": "info@galaicontrol.com",
+  "web": "RG ECCE GAL-E-012.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-012.pdf",
+  "referencia": "00157",
+  "inscripcion_ccaa": "E-15012/2010-DR",
+  "fecha_alta": "10/09/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "10/09/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-013",
+  "nif": "B15393689",
+  "empresa": "Control y Estudios, SL (CYE)",
+  "direccion": "Polígono Industrial de La Gándara . Avenida del Mar, 123",
+  "cp": "15570",
+  "municipio": "Narón",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "telefono1": "981 37 11 36",
+  "telefono2": "",
+  "fax": "981 37 11 04",
+  "email": "gonzalo.guzman@controlyestudios.es",
+  "web": "RG ECCE GAL-E-013.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-013.pdf",
+  "referencia": "00105",
+  "inscripcion_ccaa": "E-15013/2010-DR",
+  "fecha_alta": "19/10/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "19/10/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-014",
+  "nif": "A15899966",
+  "empresa": "ALFA Instant, SA",
+  "direccion": "Polígono Industrial Bergondo. Rua Parroquía de Cortiñán, H-19/20.",
+  "cp": "15165",
+  "municipio": "Bergondo",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "telefono1": "981 78 35 38",
+  "telefono2": "",
+  "fax": "981 97 01 46",
+  "email": "pmblancol@alfainstant.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00013",
+  "inscripcion_ccaa": "E-15014/2010-DR",
+  "fecha_alta": "11/11/2011",
+  "baja": "BAJA",
+  "fecha_baja": "13/10/2014",
+  "declaraciones": [
+   "11/11/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-015",
+  "nif": "B36491520",
+  "empresa": "Ingeniería, Geotécnia y Calidad, SL",
+  "direccion": "Avenida Monserrat, 54 Donramiro",
+  "cp": "36500",
+  "municipio": "Lalín",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "telefono1": "986 78 07 10",
+  "telefono2": "",
+  "fax": "986 78 07 10",
+  "email": "igcalidad@igcalidad.com",
+  "web": "RG ECCE GAL-E-015.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-015.pdf",
+  "referencia": "00244",
+  "inscripcion_ccaa": "E-15015/2011-DR",
+  "fecha_alta": "18/01/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/01/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-016",
+  "nif": "B70286067",
+  "empresa": "Ingeniería del Acero del Noroeste, SL",
+  "direccion": "Plaza de Pontevedra, 15, 1º-B",
+  "cp": "15003",
+  "municipio": "Coruña, A",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "telefono1": "981 14 30 78",
+  "telefono2": "",
+  "fax": "981 14 30 78",
+  "email": "antonio@ingenieriadelacero.com",
+  "web": "RG ECCE GAL-E-016.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-016.pdf",
+  "referencia": "00447",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "18/06/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/06/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-017",
+  "nif": "A27812627",
+  "empresa": "ENMACOSA CONSULTORÍA TÉCNICA SA",
+  "direccion": "Rua Aneldo Perral, 25 Polígono Industrial Veigadaña",
+  "cp": "36416",
+  "municipio": "Mos",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "telefono1": "986 80 12 00",
+  "telefono2": "",
+  "fax": "986 34 46 14",
+  "email": "jalorenzo@enmacosa.com",
+  "web": "RG ECCE GAL-E-017.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-017.pdf",
+  "referencia": "00567",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "14/09/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "14/09/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. De las prestaciones del edificio a lo largo de su vida útil para verificar el CTE  y normativa aplicable",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-018",
+  "nif": "B70447693",
+  "empresa": "IN-CUBED Ingeniería, Innovación, Investigación, SLL",
+  "direccion": "C/ Enrique Mariñas, 36 - Ático",
+  "cp": "15009",
+  "municipio": "Coruña, A",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "telefono1": "630 03 41 81",
+  "telefono2": "",
+  "fax": "",
+  "email": "gconde@in-cubed.com",
+  "web": "RG ECCE GAL-E-018.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-018.pdf",
+  "referencia": "00602",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "02/03/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "02/03/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-019",
+  "nif": "B15044357",
+  "empresa": "APPLUS NORCONTROL, SL",
+  "direccion": "Ctra N-VI, km 582",
+  "cp": "15168",
+  "municipio": "Sada",
+  "provincia": "A Coruña",
+  "comunidad": "Galicia",
+  "telefono1": "981 01 45 00",
+  "telefono2": "",
+  "fax": "981 01 45 50",
+  "email": "info.noroeste@applul.com",
+  "web": "RG ECCE GAL-E-019.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-019.pdf",
+  "referencia": "00020(15)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/06/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "20/06/2016"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "GAL-E-020",
+  "nif": "B63817191",
+  "empresa": "AB-AUCATEL Inspección y control, SLU",
+  "direccion": "C/ Alfredo García Alen, 6 -bajo izquierda",
+  "cp": "36002",
+  "municipio": "Pontevedra",
+  "provincia": "Pontevedra",
+  "comunidad": "Galicia",
+  "telefono1": "937 57 60 28",
+  "telefono2": "",
+  "fax": "",
+  "email": "castillo@aucatel.com",
+  "web": "RG ECCE GAL-E-020.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/GAL-E-020.pdf",
+  "referencia": "00615(01)",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "11/07/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "11/07/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-001",
+  "nif": "A28318012",
+  "empresa": "EUROCONTROL, SA",
+  "direccion": "Calle Zurbano, 48 bajos",
+  "cp": "28010",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "918 37 39 83",
+  "telefono2": "",
+  "fax": "916 96 94 33",
+  "email": "ee-secretariatecnica@eurocontrol.es",
+  "web": "RG ECCE MAD-E-001.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-001.pdf",
+  "referencia": "00141",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "03/09/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "03/09/2010",
+   "20/05/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-002",
+  "nif": "B83293431",
+  "empresa": "Area, Desarrollo y Gestión, SL",
+  "direccion": "Calle San Romualdo, 123",
+  "cp": "28037",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "914 40 13 48",
+  "telefono2": "",
+  "fax": "913 68 10 92",
+  "email": "",
+  "web": "RG ECCE MAD-E-002.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-002.pdf",
+  "referencia": "00448",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "24/05/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "24/05/2010"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-003",
+  "nif": "A78564937",
+  "empresa": "Instituto de Control, Asistencia, Ensayos y Sondeos, SA (ICAES, SA)",
+  "direccion": "Polígono Las Nieves, Calle Puerto de Cotos 17",
+  "cp": "28935",
+  "municipio": "Móstoles",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "916 65 80 45",
+  "telefono2": "",
+  "fax": "916 65 80 43",
+  "email": "materiales@icaes.es",
+  "web": "RG ECCE MAD-E-003.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-003.pdf",
+  "referencia": "00256",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "16/06/2010",
+  "baja": "BAJA",
+  "fecha_baja": "20/04/2017",
+  "declaraciones": [
+   "16/06/2010",
+   "20/04/2017"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-004",
+  "nif": "A28184661",
+  "empresa": "Instituto Técnico de Materiales y Construcciones, SA (INTEMAC)",
+  "direccion": "Calle Mario Roso de Luna, 29. Edificio 12",
+  "cp": "28022",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "913 27 74 00",
+  "telefono2": "",
+  "fax": "913 27 74 23",
+  "email": "jmcortes@intemac.es",
+  "web": "RG ECCE MAD-E-004.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-004.pdf",
+  "referencia": "00262",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "02/08/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "02/08/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-005",
+  "nif": "A28217735",
+  "empresa": "EUROCONSULT, SA",
+  "direccion": "Avenida Camino del Cortao, 17",
+  "cp": "28073",
+  "municipio": "San Sebastián de los Reyes",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "916 59 78 00",
+  "telefono2": "",
+  "fax": "916 59 78 10",
+  "email": "jpoym@euroconsult.es",
+  "web": "RG ECCE MAD-E-005.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-005.pdf",
+  "referencia": "00140",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "13/08/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "13/08/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-006",
+  "nif": "A59545202",
+  "empresa": "Control Técnico y Prevención de Riesgos, SA",
+  "direccion": "Calle Néstares, 20-1ª palnta",
+  "cp": "28045",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "915 52 79 01",
+  "telefono2": "",
+  "fax": "915 52 07 14",
+  "email": "jfernandez@cpv-oct.com",
+  "web": "RG ECCE MAD-E-006.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-006.pdf",
+  "referencia": "00101",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/09/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/09/2010",
+   "13/03/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "CONSTRUCCIÓN",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "EFICIENCIA ENERGÉTICA",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "ESTRUCTURAS",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "INSTALACIONES",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "PROYECTO",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-007",
+  "nif": "A79255584",
+  "empresa": "Instituto Técnico de Inspección y Control, SA (INTEINCO)",
+  "direccion": "Calle Príncipe de Vergara, 55",
+  "cp": "28006",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "915 64 15 12",
+  "telefono2": "",
+  "fax": "914 11 01 34",
+  "email": "inteinco@inteinco.es",
+  "web": "RG ECCE MAD-E-007.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-007.pdf",
+  "referencia": "00260",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "28/09/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "28/09/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones de edificios existentes",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-008",
+  "nif": "A82604372",
+  "empresa": "CERTUM Control Técnico de la Edificación, SA",
+  "direccion": "Calle Orense, 69,-2º",
+  "cp": "28020",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "917 87 13 70",
+  "telefono2": "",
+  "fax": "917 87 13 69",
+  "email": "resteban@certum.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00077",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "28/09/2010",
+  "baja": "BAJA",
+  "fecha_baja": "07/05/2015",
+  "declaraciones": [
+   "28/09/2010",
+   "07/05/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b (industrial)",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b (industrial)",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b (industrial)",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b (industrial)",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b (industrial)",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-009",
+  "nif": "B28205904",
+  "empresa": "Bureau Veritas Iberia, SLU",
+  "direccion": "Valportilllo Primera, 22-24. Polígono Industrial La Granja. Edificio Caoba",
+  "cp": "28108",
+  "municipio": "Alcobendas",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "912 70 22 00",
+  "telefono2": "",
+  "fax": "912 70 21 83",
+  "email": "carmen.san-segundo@es.bureauveritas.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00051",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "08/10/2010",
+  "baja": "BAJA",
+  "fecha_baja": "01/04/2014",
+  "declaraciones": [
+   "08/10/2010",
+   "01/04/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "Área de eficiencia energética según se define en Orden de 21/11/2007 de Conselleria de Vivenda e Solo",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "Concepción técnica integral según se define en Orden de 21/11/2007 de Conselleria de Vivenda e Solo",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-010",
+  "nif": "A82310095",
+  "empresa": "DCS Management, SA",
+  "direccion": "Calle Saturnino Calleja, 16",
+  "cp": "28002",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "915 91 41 37",
+  "telefono2": "",
+  "fax": "915 91 41 72",
+  "email": "ranguita@dcsmanagement.com",
+  "web": "RG ECCE MAD-E-010.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-010.pdf",
+  "referencia": "00107",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "16/11/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "16/11/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a",
+    "fase": "VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-011",
+  "nif": "A79040267",
+  "empresa": "Cercha Control de Calidad, SA",
+  "direccion": "Calle Rafael Herrera, 3",
+  "cp": "28036",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "913 23 17 50",
+  "telefono2": "",
+  "fax": "913 23 17 51",
+  "email": "",
+  "web": "RG ECCE MAD-E-011.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-011.pdf",
+  "referencia": "00075",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/11/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/11/2010"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-012",
+  "nif": "B83871640",
+  "empresa": "Serju R-7 Consultores, SL",
+  "direccion": "Calle Seco, 3 Oficina 2",
+  "cp": "28007",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "915 01 64 05",
+  "telefono2": "",
+  "fax": "915 01 65 25",
+  "email": "consultores@rsiete.com",
+  "web": "RG ECCE MAD-E-012.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-012.pdf",
+  "referencia": "00392",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "17/12/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "17/12/2010"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-013",
+  "nif": "A28345577",
+  "empresa": "SGS Tecnos, SA",
+  "direccion": "Calle Trespaderne, 29",
+  "cp": "28042",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "913 13 80 00",
+  "telefono2": "",
+  "fax": "913 13 81 44",
+  "email": "ramon.vicente@sgs.com",
+  "web": "RG ECCE MAD-E-013.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-013.pdf",
+  "referencia": "00399",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "21/12/2010",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "21/12/2010",
+   "10/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-014",
+  "nif": "A28161396",
+  "empresa": "Asistencia Técnica Industrial, SA (ATISAE)",
+  "direccion": "Avenida de los Artesanos, 20",
+  "cp": "28760",
+  "municipio": "Tres Cantos",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "918 06 17 22",
+  "telefono2": "",
+  "fax": "918 04 55 30",
+  "email": "oct-madrid@atisae.com",
+  "web": "RG ECCE MAD-E-014.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-014.pdf",
+  "referencia": "00024",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/01/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/01/2011",
+   "15/01/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-015",
+  "nif": "B97842553",
+  "empresa": "EDILIZIA Aplicada, SL",
+  "direccion": "Calle Parque Bujaruelo, 18 Oficina 3",
+  "cp": "28923",
+  "municipio": "Alcorcón",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "615 46 09 58",
+  "telefono2": "",
+  "fax": "",
+  "email": "e.boyarizo@edilizia.es",
+  "web": "RG ECCE MAD-E-015.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-015.pdf",
+  "referencia": "00114",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "07/03/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "07/03/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-016",
+  "nif": "B85954071",
+  "empresa": "ALFA Control III Ingeniería y Sistemas, SL",
+  "direccion": "Calle Cerro del Murmullo, 13, Oficina 125",
+  "cp": "28051",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "914 94 94 27",
+  "telefono2": "",
+  "fax": "914 94 94 27",
+  "email": "edificacion@ac3ingenieros.com",
+  "web": "RG ECCE MAD-E-016.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-016.pdf",
+  "referencia": "00012",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "28/02/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "28/02/2011",
+   "28/02/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-017",
+  "nif": "A40007460",
+  "empresa": "OCA Inspección Control y Prevención, SA (OCA ICP, SA) (SOCOTEC, SA)",
+  "direccion": "Vía de las dos Castillas, 7 Edificio OCA Group",
+  "cp": "28224",
+  "municipio": "Pozuelo de Alarcón",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "917 99 48 00",
+  "telefono2": "",
+  "fax": "913 52 18 08",
+  "email": "construccionmadrid@ocaicp.com",
+  "web": "RG ECCE MAD-E-017.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-017.pdf",
+  "referencia": "00356",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "26/10/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "26/10/2011",
+   "24/05/2012",
+   "17/04/2013",
+   "13/12/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util, verificando el cumplimiento de las exigencias básicas del CTE y demás normativa aplicable.",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-018",
+  "nif": "B86189651",
+  "empresa": "Organismo de Control de Obras, SL",
+  "direccion": "Calle Capitán Haya, 48 - 2º",
+  "cp": "28002",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "915 15 97 13",
+  "telefono2": "",
+  "fax": "911 41 29 92",
+  "email": "dt@organismodecontrol.com",
+  "web": "RG ECCE MAD-E-018.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-018.pdf",
+  "referencia": "00362",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "07/02/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "07/02/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-019",
+  "nif": "B84309194",
+  "empresa": "Asistencia Técnica Ingeniería Civil y Obras, SL (ATICOSL)",
+  "direccion": "Calle Los Yebenes, 73. Local 7",
+  "cp": "28047",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "917 17 53 90",
+  "telefono2": "",
+  "fax": "917 17 53 90",
+  "email": "aticojm@gmail.com",
+  "web": "RG ECCE MAD-E-019.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-019.pdf",
+  "referencia": "00025",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/01/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/01/2013",
+   "15/01/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-020",
+  "nif": "B84974799",
+  "empresa": "Ingeniería Edificación y Arquitectura, SLNE",
+  "direccion": "Calle José Ortega y Gasset 50 - 2B",
+  "cp": "28006",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "639 61 24 24",
+  "telefono2": "",
+  "fax": "923 99 29 47",
+  "email": "josecarlos.greciano@ingeniae.es",
+  "web": "RG ECCE MAD-E-020.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-020.pdf",
+  "referencia": "00494",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/02/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "20/02/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE (Certificación)",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-021",
+  "nif": "B86920840",
+  "empresa": "Analisis Gestión y Sostenibilidad Energética, S.L. (AGESE)",
+  "direccion": "Avenida de Burgos, 44",
+  "cp": "28036",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "616 46 82 52",
+  "telefono2": "",
+  "fax": "",
+  "email": "direccion@agese.es",
+  "web": "RG ECCE MAD-E-021.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-021.pdf",
+  "referencia": "00505",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "28/03/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "28/03/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MAD-E-022",
+  "nif": "B85744134",
+  "empresa": "NOGAWATIO ESE, SL",
+  "direccion": "c/ Torrelaguna, 61 - 1º C",
+  "cp": "28027",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "comunidad": "Madrid, Comunidad de",
+  "telefono1": "914 04 79 05",
+  "telefono2": "",
+  "fax": "914 04 88 26",
+  "email": "eegea@nogawatio.es",
+  "web": "RE ECCE MAD-E-022.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MAD-E-022.pdf",
+  "referencia": "00524",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "02/07/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "02/07/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-001",
+  "nif": "B30168058",
+  "empresa": "ACE Edificación, SL",
+  "direccion": "Paseo Fotógrafo Verdú, 4",
+  "cp": "30002",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 21 55 43",
+  "telefono2": "660 55 66 88",
+  "fax": "968 21 81 19",
+  "email": "ace@aceedificación.es",
+  "web": "RG ECCE MUR-E-001.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-001.pdf",
+  "referencia": "00004",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "05/03/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "05/03/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-002",
+  "nif": "B73104143",
+  "empresa": "Entidad para la Calidad de la Construcción de la Región de Murcia, SL (ECC Murcia)",
+  "direccion": "Calle Plano de San Francisco, 4, bajo, Edificio Zabalburu",
+  "cp": "30004",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 93 00 10",
+  "telefono2": "",
+  "fax": "968 93 00 09",
+  "email": "sonia@eccmurcia.com",
+  "web": "RG ECCE MUR-E-002.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-002.pdf",
+  "referencia": "00112",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "16/06/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "16/06/2012",
+   "01/10/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "Art. 2",
+    "fase": "P, E"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-007",
+  "nif": "B73252777",
+  "empresa": "GETNISA Ingeniería Civil, SLP",
+  "direccion": "Calle Fernando Alonso Navarro, 12, 6ª Planta",
+  "cp": "30009",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 23 25 62",
+  "telefono2": "",
+  "fax": "968 23 25 10",
+  "email": "antoniogomez@getnisa.com",
+  "web": "RG ECCE MUR-E-007.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-007.pdf",
+  "referencia": "00208",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "14/01/2011",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "14/01/2011"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-008",
+  "nif": "B30511877",
+  "empresa": "INCOTEC Consultores, SL",
+  "direccion": "Calle Mayor, 55 - Polígono Industrial Camposol, 10-2º Izda.",
+  "cp": "30006",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 22 24 82",
+  "telefono2": "",
+  "fax": "968 28 17 96",
+  "email": "jrvicente@incotecconsultores.es",
+  "web": "RG ECCE MUR-E-008.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-008.pdf",
+  "referencia": "00229",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "26/01/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "26/01/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-009",
+  "nif": "22989814A",
+  "empresa": "Inmaculada Manzanares Meroño",
+  "direccion": "Plaza de la Iglesia. s/n - Los Dolores",
+  "cp": "30310",
+  "municipio": "Cartagena",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "626 99 49 25",
+  "telefono2": "",
+  "fax": "868 06 37 22",
+  "email": "inma.manzanares@coaatmu.es",
+  "web": "RG ECCE MUR-E-009.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-009.pdf",
+  "referencia": "00251",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "26/12/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "26/12/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-010",
+  "nif": "B73762460",
+  "empresa": "ITECE Arquitectura del Edificio Terminado, SL",
+  "direccion": "Avenida Gran Vía, 1, 3ª planta",
+  "cp": "30180",
+  "municipio": "Bullas",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "610 54 27 70",
+  "telefono2": "",
+  "fax": "",
+  "email": "antonio.fs@coaatmu.es",
+  "web": "RG ECCE MUR-E-010.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-010.pdf",
+  "referencia": "00276",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "26/12/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "26/12/2012"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-011",
+  "nif": "11825905H",
+  "empresa": "Raúl Gallego Zuazu",
+  "direccion": "Avenida Embajador Inocencio Arias, 8 - 5º A",
+  "cp": "30007",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "660 55 66 88",
+  "telefono2": "",
+  "fax": "",
+  "email": "raul.gallego@coaatmu.es",
+  "web": "RG ECCE MUR-E-011.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-011.pdf",
+  "referencia": "00380",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "07/05/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "07/05/2013"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-012",
+  "nif": "B73781684",
+  "empresa": "ACE Gestión de Activos, SL",
+  "direccion": "Paseo Fotógrafo Verdú, 4, bajo",
+  "cp": "30002",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 21 55 43",
+  "telefono2": "660 55 66 88",
+  "fax": "968 21 81 19",
+  "email": "jibeas@acegestionactivos.es",
+  "web": "RG ECCE MUR-E-012.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-012.pdf",
+  "referencia": "00005",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "24/04/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "24/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-013",
+  "nif": "A30039549",
+  "empresa": "Urbanizadora Municipal, SA (URBAMUSA)",
+  "direccion": "Plaza Beato Andrés Hibermón 6, 3ª planta",
+  "cp": "30001",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 23 76 31",
+  "telefono2": "",
+  "fax": "968 20 04 79",
+  "email": "urbamusa@urbamusa.com",
+  "web": "RG ECCE MUR-E-013.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-013.pdf",
+  "referencia": "00433",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "25/04/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "25/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-014",
+  "nif": "27449091V",
+  "empresa": "M. Concepción Cánovas Cánovas",
+  "direccion": "Calle Navegante Juan Fernández, 19",
+  "cp": "30007",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "651 12 60 93",
+  "telefono2": "",
+  "fax": "",
+  "email": "concepción.canovas@coaatmu",
+  "web": "",
+  "web_url": "",
+  "referencia": "00347",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "29/04/2013",
+  "baja": "BAJA",
+  "fecha_baja": "22/07/2014",
+  "declaraciones": [
+   "29/04/2013",
+   "22/07/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-015",
+  "nif": "27431868K",
+  "empresa": "José Hernández Barcelo",
+  "direccion": "Calle Estación 1, 3º A",
+  "cp": "30570",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "607 85 82 91",
+  "telefono2": "",
+  "fax": "",
+  "email": "jose.hernandez@coaatmu.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00282",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "25/04/2013",
+  "baja": "BAJA",
+  "fecha_baja": "22/07/2014",
+  "declaraciones": [
+   "25/04/2013",
+   "22/07/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-016",
+  "nif": "B30731160",
+  "empresa": "Bernardino Arquitectos, SLP",
+  "direccion": "Calle Comedias, 1, 3º A",
+  "cp": "30201",
+  "municipio": "Cartagena",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 12 40 15",
+  "telefono2": "",
+  "fax": "",
+  "email": "bernardino@barqs.es",
+  "web": "RG ECCE MUR-E-016.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-016.pdf",
+  "referencia": "00043",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "13/05/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "13/05/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-017",
+  "nif": "27445225S",
+  "empresa": "Antonio Navarro Iniesta ITECEE",
+  "direccion": "C/ Morunos, 20",
+  "cp": "30007",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "690 84 61 67",
+  "telefono2": "",
+  "fax": "968 90 34 90",
+  "email": "antonio.navarro@itcee.com",
+  "web": "RG ECCE MUR-E-017.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-017.pdf",
+  "referencia": "00468",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "01/03/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "01/03/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a",
+    "fase": "E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-018",
+  "nif": "V73274961",
+  "empresa": "Asociación Empresarial de Investigación Centro Tecnológico de la Construcción Región de Murcia (CTCON)",
+  "direccion": "Avenida de las Américas, 16, parcela 4/B",
+  "cp": "30820",
+  "municipio": "Alcantarilla",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 35 52 70",
+  "telefono2": "",
+  "fax": "968 35 52 71",
+  "email": "ctcon@ctcon-rm.com",
+  "web": "RG ECCE MUR-E-018.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-018.pdf",
+  "referencia": "00027",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "04/06/2014",
+  "baja": "BAJA",
+  "fecha_baja": "04/10/2016",
+  "declaraciones": [
+   "04/06/2014",
+   "04/10/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-019",
+  "nif": "B73000747",
+  "empresa": "ESFERA CONSULTORES DE CONSTRUCCIÓN, SLP",
+  "direccion": "Avenida Don Juan de Borbón, 20 Entlo.",
+  "cp": "30007",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "968 20 00 35",
+  "telefono2": "",
+  "fax": "968 20 00 35",
+  "email": "ra.murcia@esferaconsultores.com",
+  "web": "RG ECCE MUR-E-019",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-019.pdf",
+  "referencia": "00620",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "13/10/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "13/10/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE-DB SE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-020",
+  "nif": "72520648S",
+  "empresa": "Francisco Arronis Navarro - EFEDEN",
+  "direccion": "C/ Sierra de Carrascoy, 14",
+  "cp": "30506",
+  "municipio": "Molina de Segura",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "620 57 19 88",
+  "telefono2": "",
+  "fax": "",
+  "email": "f.arronis@efeden.es",
+  "web": "RG ECCE MUR-E-020",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-020.pdf",
+  "referencia": "00626",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "01/12/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "01/12/2016"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "MUR-E-021",
+  "nif": "B30901888",
+  "empresa": "SINERGEA Gestión en Ingeniería y Geotécnia, SL",
+  "direccion": "Calle Carmén, 53 - 2ºD",
+  "cp": "30201",
+  "municipio": "Cartagena",
+  "provincia": "Murcia",
+  "comunidad": "Murcia, Región de",
+  "telefono1": "637 37 10 73",
+  "telefono2": "",
+  "fax": "",
+  "email": "danielpc@sinergea.es",
+  "web": "RG ECCE MUR-E-021",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/MUR-E-021.pdf",
+  "referencia": "00652",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "01/03/2017",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "01/03/2017"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util, verificando el cumplimiento de las exigencias básicas del CTE y demás normativa aplicable.",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Prestaciones de sostenibilidad, funcional y espacial del edificio.",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "NAV-E-001",
+  "nif": "B71213896",
+  "empresa": "BSP-SEVICIO DE CONSULTORIA TÉCNICA, SL",
+  "direccion": "Plaza de la Constitución, 3 -1º oficina 3",
+  "cp": "31600",
+  "municipio": "Burlada/Burlata",
+  "provincia": "Navarra",
+  "comunidad": "Navarra, Comunidad Foral de",
+  "telefono1": "639 71 77 00",
+  "telefono2": "",
+  "fax": "948 13 46 53",
+  "email": "central@bspconsultores.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00571",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "03/02/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "03/02/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-001",
+  "nif": "16245425L",
+  "empresa": "Ramón Ruiz-Cuevas Peña",
+  "direccion": "Calle Prado, 30, 4º izda",
+  "cp": "01005",
+  "municipio": "Vitoria-Gasteiz",
+  "provincia": "Álava / Araba",
+  "comunidad": "País Vasco",
+  "telefono1": "945 25 39 18",
+  "telefono2": "",
+  "fax": "945 25 39 18",
+  "email": "info@luzyespacio.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00379",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "14/12/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "14/12/2012"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b (industrial)",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b (industrial)",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a/1.b (industrial)",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-002",
+  "nif": "B95496311",
+  "empresa": "INGELAN 2000, SL",
+  "direccion": "Calle Andres Eliseo de Mañaricua, 13 ext 3º B. Pintor Teodoro Dublang, 17, bajo",
+  "cp": "48003",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "944 01 48 45",
+  "telefono2": "",
+  "fax": "944 01 48 61",
+  "email": "ingelan@ingelan2000.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00230",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/05/2013",
+  "baja": "BAJA",
+  "fecha_baja": "16/06/2015",
+  "declaraciones": [
+   "20/05/2013",
+   "16/06/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-003",
+  "nif": "B48605521",
+  "empresa": "Ingeniería y Técnicas de Calidad, SL (ITC INTECA)",
+  "direccion": "Edificio San Isidro, 1. Calle Idorsolo, 13 Oficinas 6-7",
+  "cp": "48160",
+  "municipio": "Derio",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "944 72 34 10",
+  "telefono2": "",
+  "fax": "944 72 40 60",
+  "email": "inteca@itcinteca.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00242",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "16/12/2012",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "16/12/2012",
+   "16/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-004",
+  "nif": "B48866040",
+  "empresa": "SAIATEK Quality, SL",
+  "direccion": "Ribera de Axpe, 11, Edificio C-Dpto. 101",
+  "cp": "48950",
+  "municipio": "Erandio",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "944 67 58 72",
+  "telefono2": "",
+  "fax": "944 67 28 51",
+  "email": "info@saiatek.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00384",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "26/04/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "26/04/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-005",
+  "nif": "B20498564",
+  "empresa": "Servicios de Ingeniería y Comerciales - Euskadi, SL (SERINKO)",
+  "direccion": "Calle Gabiria, 32 Irungo Industrialdea",
+  "cp": "20305",
+  "municipio": "Irun",
+  "provincia": "Gipuzkoa",
+  "comunidad": "País Vasco",
+  "telefono1": "943 63 37 99",
+  "telefono2": "",
+  "fax": "943 63 38 39",
+  "email": "serinko@clientes.euskaltel.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00391",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "20/06/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "20/06/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-006",
+  "nif": "J95592911",
+  "empresa": "ATICA Aparejadores, SCP",
+  "direccion": "Askastasuna Etorbidea, 9 bis, Oficinas",
+  "cp": "48003",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "687 86 82 32",
+  "telefono2": "",
+  "fax": "944 15 23 70",
+  "email": "josemi@atica-aparejadores.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00032",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "10/07/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "10/07/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. Prestaciones vida util",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-007",
+  "nif": "A20324844",
+  "empresa": "GIKE, SA",
+  "direccion": "Calle Fernando Múgica, 11 Bajo. Polígono Industrial Belartza",
+  "cp": "20018",
+  "municipio": "Donostia/San Sebastián",
+  "provincia": "Gipuzkoa",
+  "comunidad": "País Vasco",
+  "telefono1": "943 35 23 23",
+  "telefono2": "",
+  "fax": "943 35 37 47",
+  "email": "gikesa@gikesa.net",
+  "web": "",
+  "web_url": "",
+  "referencia": "00211",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "23/07/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "23/07/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-008",
+  "nif": "16065646P",
+  "empresa": "Ana Alcibar - Arquitecta",
+  "direccion": "Avenida de Algorta, 52 - 1º-B",
+  "cp": "48992",
+  "municipio": "Getxo",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "646 50 91 67",
+  "telefono2": "",
+  "fax": "",
+  "email": "anaalcibar@coavn.org",
+  "web": "",
+  "web_url": "",
+  "referencia": "00490",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "18/10/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "18/10/2013",
+   "14/07/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-009",
+  "nif": "B95434874",
+  "empresa": "Maruri Arkitektura eta Hirigintza, SL",
+  "direccion": "Alameda de Urquijo, 24 - 3D",
+  "cp": "48008",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "944 44 78 02",
+  "telefono2": "",
+  "fax": "944 44 78 02",
+  "email": "mixi@m2arkitektura.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00477",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "28/10/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "28/10/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-010",
+  "nif": "B95231866",
+  "empresa": "Mendibil Arquitectura y Urbanismo",
+  "direccion": "Los Fueros, 7 bajo. Local Comercial",
+  "cp": "48992",
+  "municipio": "Getxo",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "944 91 22 62",
+  "telefono2": "",
+  "fax": "",
+  "email": "borja@gau4.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00478",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "31/10/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "31/10/2013",
+   "02/01/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-011",
+  "nif": "15253702X",
+  "empresa": "Iñaki Mendizabal Miguelez",
+  "direccion": "Avenida de Navarra, 73 - 3E",
+  "cp": "20100",
+  "municipio": "Errenteria",
+  "provincia": "Gipuzkoa",
+  "comunidad": "País Vasco",
+  "telefono1": "627 53 67 51",
+  "telefono2": "",
+  "fax": "",
+  "email": "inaki.mendizabal@ekoteknia.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00467",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "31/10/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "31/10/2013",
+   "20/10/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-012",
+  "nif": "15948100S",
+  "empresa": "Jesús Arroyo - FCI",
+  "direccion": "Basundi, 4 (Apartado 102)",
+  "cp": "20160",
+  "municipio": "Lasarte-Oria",
+  "provincia": "Gipuzkoa",
+  "comunidad": "País Vasco",
+  "telefono1": "634 40 09 85",
+  "telefono2": "",
+  "fax": "943 36 57 01",
+  "email": "josu7@msn.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00491",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "07/11/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "07/11/2013",
+   "09/12/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Verificación del cumplimiento del CTE y demás normativa aplicable en nueva construcción y rehabilitación",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-013",
+  "nif": "B86095640",
+  "empresa": "WHS-STARKTEK MANAGEMENT SL",
+  "direccion": "C/ Biarritz, 2B-1ºE",
+  "cp": "48002",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "944 24 33 44",
+  "telefono2": "",
+  "fax": "",
+  "email": "jose.herrera@whssl.com",
+  "web": "",
+  "web_url": "",
+  "referencia": "00557",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "01/07/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "01/07/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios de terreno y del estado de conservación de los edificios",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. Sostenibilidad",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-014",
+  "nif": "44626892S",
+  "empresa": "Carlos Azparren Jover",
+  "direccion": "C/ Iparraguirre, 61 - 2º izq.",
+  "cp": "48010",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "600 28 19 36",
+  "telefono2": "",
+  "fax": "",
+  "email": "carlosazparren@coavn.org",
+  "web": "",
+  "web_url": "",
+  "referencia": "00558",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "05/12/2014",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "05/12/2014"
+  ],
+  "alcance": [
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a/1.b/1.c",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-015",
+  "nif": "B95682969",
+  "empresa": "ZEROLAB SL",
+  "direccion": "Uribitarte, 6 - 2ª planta",
+  "cp": "48001",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "comunidad": "País Vasco",
+  "telefono1": "944 01 94 72",
+  "telefono2": "",
+  "fax": "",
+  "email": "osantiuste@zerolab.com.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00578",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "02/06/2015",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "02/06/2015"
+  ],
+  "alcance": [
+   {
+    "concepto": "d) EEE Supervisión",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   }
+  ],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "PVS-E-016",
+  "nif": "B01319508",
+  "empresa": "LABIKER Ingeniería y Control de Calidad, SL",
+  "direccion": "Calle Uzbina, 24, pabellón A-4",
+  "cp": "01015",
+  "municipio": "Vitoria-Gasteiz",
+  "provincia": "Álava / Araba",
+  "comunidad": "País Vasco",
+  "telefono1": "945 29 09 03",
+  "telefono2": "",
+  "fax": "945 29 00 12",
+  "email": "jaione-gaisan@labiker-incc.es",
+  "web": "",
+  "web_url": "",
+  "referencia": "00285",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "02/09/2016",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "02/09/2016"
+  ],
+  "alcance": [],
+  "esposteriorRD4102010": true
+ },
+ {
+  "cod": "LRJ-E-001",
+  "nif": "16584797A",
+  "empresa": "Oscar Fernández Bobadilla (Arquitecto)",
+  "direccion": "Avenida de Madrid, 150-E Bajo",
+  "cp": "26007",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "comunidad": "Rioja, La",
+  "telefono1": "941 20 39 53",
+  "telefono2": "",
+  "fax": "647 29 71 65",
+  "email": "",
+  "web": "RG ECCE LRJ-E-001.pdf",
+  "web_url": "http://www.codigotecnico.org/images/stories/registroCTE/entidades/LRJ-E-001.pdf",
+  "referencia": "00364",
+  "inscripcion_ccaa": "",
+  "fecha_alta": "15/03/2013",
+  "baja": "",
+  "fecha_baja": "",
+  "declaraciones": [
+   "15/03/2013"
+  ],
+  "alcance": [
+   {
+    "concepto": "a) Estudios del estado de conservación de los edificios",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "b) Cumplimiento CTE",
+    "alcance_loe": "1.a",
+    "fase": "P, E"
+   },
+   {
+    "concepto": "c) Ev. prestaciones vida util",
+    "alcance_loe": "1.a",
+    "fase": "VU"
+   },
+   {
+    "concepto": "d) EEE",
+    "alcance_loe": "1.a",
+    "fase": "P, E, VU"
+   },
+   {
+    "concepto": "e) Ev. sostenibilidad",
+    "alcance_loe": "1.a",
+    "fase": "\"P, E, VU\"."
+   }
+  ],
+  "esposteriorRD4102010": true
+ }
+]

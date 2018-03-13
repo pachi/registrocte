@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+table#registros {
+  text-align: left;
+  font-size: 0.75rem;
+  margin: 20px 2%;
+  padding-top: 10px;
+  border-width: 0;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 96%;
+}
+
+table#registros tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+table#registros td { padding: 5px; vertical-align: top; }
+
+table#registros > thead th {
+  background-color: #a0a0a0;
+}
+
+table#registros table.alcancetable th {
+  background-color: #d1d1d1;
+  font-weight: normal;
+}
+
+table#registros table.alcancetable tbody {
+  font-style: italic;
+}
+
+
+table#registros caption { margin: 20px; font-style: italic; font-weight: bold; }
+
+table#registros .w10 { width: 10% }
+table#registros .w20 { width: 20% }
+table#registros .w30 { width: 30% }
+table#registros .w40 { width: 40% }
+table#registros .w60 { width: 60% }
+
+table#registros .light { color: rgb(104, 104, 104); font-style: italic; }
+table#registros span.alta { color: green; }
+
+#ents .footnotes, #labs .footnotes { font-size: small;}
+
+/* Spinner */
+.spinner {
+  position: relative;
+  left: 50%;
+  z-index: 1;
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #555; /* Blue */
+  border-radius: 50%;
+  margin: 50px -50px;
+  width: 50px;
+  height: 50px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
